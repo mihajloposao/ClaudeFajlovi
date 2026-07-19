@@ -22,8 +22,11 @@ Detaljno: [`profil.md`](profil.md) · [`stil-komunikacije.md`](stil-komunikacije
   [`../Planovi/Generalni planovi/plan_14jul-23avgust_sazetak.md`](../Planovi/Generalni%20planovi/plan_14jul-23avgust_sazetak.md)
 - **Datumi ispita:** [`../Planovi/Faks/ispiti-rokovi.md`](../Planovi/Faks/ispiti-rokovi.md)
   Prvi rok počinje **26.8**, drugi **9.9**.
-- **Sekundarni cilj:** 80 kg + navika treninga (meri se doslednošću, ne kilažom).
-  [`../Zdravlje/ciljevi-i-navike.md`](../Zdravlje/ciljevi-i-navike.md)
+- **Sekundarni cilj (revidirano 19.7):** rekompozicija — mišić + topljenje
+  stomaka, ne samo kilaža. Trening 5×/ned po planu u
+  [`../Zdravlje/trening-plan.md`](../Zdravlje/trening-plan.md); ishrana i limiti u
+  [`../Zdravlje/ciljevi-i-navike.md`](../Zdravlje/ciljevi-i-navike.md).
+  Doslednost i dalje merilo.
 - **Svi projekti su u pauzi do kraja rokova.** Fokus i Helthy rade i koriste se,
   ali se nove funkcionalnosti ne razvijaju.
   [`../Projekti/pregled-projekata.md`](../Projekti/pregled-projekata.md)

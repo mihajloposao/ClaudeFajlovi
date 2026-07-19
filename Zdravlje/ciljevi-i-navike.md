@@ -4,27 +4,43 @@
 (kilaža, treninzi, obroci) — za aktuelne brojke povući iz nje, ne oslanjati se
 na ovaj fajl.
 
-## Cilj forme
+## Cilj forme — rekompozicija (revidirano 19.7)
 
-- Polazna tačka (jul 2026): **83,4 kg** → **cilj 80 kg** = −3,4 kg.
-- Tempo: ~0,6 kg nedeljno — blag, održiv deficit, **bez drastičnog reza**.
-- **Pravi merljivi cilj nije kilaža nego doslednost.** Održati ritam treninga
-  kroz ceo ispitni period bez prekida; meri se streakom.
+- Polazna tačka: **83 kg / 188 cm**, malo mišićne mase, mast koncentrisana na
+  stomaku (procena ~18–22%). Profil "skinny-fat".
+- **Cilj nije samo kilaža nego rekompozicija:** graditi mišić + topiti mast
+  istovremeno (kao početnik u snazi to je izvodljivo). Vaga je sporedni signal —
+  merilo je slika u ogledalu i progresija u treningu.
+- Vaga: 1× nedeljno, ujutru, isti dan. Očekivano **−0,2 do −0,4 kg nedeljno**.
+  Stoji 3+ nedelje → −150 kcal; pada brže od 0,5 kg/ned → +150 kcal.
+- **Doslednost i dalje ispred svega** — streak treninga kroz ceo ispitni period.
 
-## Trening
+## Ishrana — dnevni targeti (22 god, ~4–5 treninga/ned)
 
-- **2–3× nedeljno, ujutru radnim danima.**
-- Kreće se od minimuma i skalira naviše samo ako se pokaže da drži pored učenja.
-- Svrha je razbiti start-stop ciklus (kreneš maksimalno → staneš → ispočetka).
+- **Kalorije: 2500–2600 kcal** (blagi deficit ~300 od procenjene potrošnje
+  2800–2900)
+- **Proteini: 155–165 g** — jedini nepregovarljiv broj; 30–40 g po obroku × 4
+- **Masti: 70–80 g** (ne ispod — hormoni)
+- **Ugljeni hidrati: ~280–300 g**, gurati oko treninga
+
+### Limiti
+
+- **Sokovi (zaslađeni):** max **1 čaša (200–250 ml) dnevno, uz obrok**
+  (~90–110 kcal, 20–26 g šećera po čaši). Zero varijante bez limita.
+- **Slatko/grickalice:** max **2× nedeljno, planirano** (npr. sreda i subota),
+  ne "kad naiđe".
+- Kalorije iz pića inače na nulu.
+- **Svaki sok i slatkiš se upisuje kao obrok** — nedeljni pregled proverava
+  limite kroz upisane podatke.
+
+## Trening (revidirano 19.7)
+
+- **Novi režim: 5 dana nedeljno** (3× gornji deo + 1× noge + 1× HIIT/core),
+  60–75 min — pun plan u [`trening-plan.md`](trening-plan.md).
+- Zamenio raniji minimalni režim 2–3×; ako se pokaže da otima učenju, nedeljni
+  pregled ga vraća na 3–4×.
 - Kad dan ne stane: trening se **skraćuje, ne preskače** — streak je važniji od
-  dužine sesije.
-
-## Ishrana
-
-- Prati se kroz Helthy: kalorije i makroi (proteini / ugljeni hidrati / masti) po
-  obroku, sa dnevnim zbirom.
-- Procena obroka iz slike ili opisa ide preko skilla `meal-nutrition-estimator`,
-  a upis u bazu preko `fokus-upis-podataka`.
+  dužine sesije. Jutarnji OI blok se ne dira.
 
 ## Dnevni ritual (tercijarni cilj)
 
