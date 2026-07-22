@@ -72,11 +72,13 @@ izobraževanja."* Uz prijavu idu diploma, dodatak diplomi i hronološki pregled.
   prelazak spoljnih granica EU. Srbija je vizno oslobođena, pa ovo
   najverovatnije ne važi za mene — ali proveriti direktno na fakultetu.
 
-## Praktičan plan za 2027
+## Praktičan plan za 2028
 
-1. **Proleće 2027** — čim izađe razpis 2027/28, izvući rokove za sve ciljane
-   programe (FAMNIT, FRI, IPS) i naći najraniji.
+1. **Proleće 2028** — čim izađe razpis 2028/29, izvući rokove za sve ciljane
+   programe (FRI, FERI, rezerva) i naći najraniji.
 2. Pripremiti paket: diploma + dodatak diplomi + prevodi + potvrda o
    nekažnjavanju. Ovo traje, ne ostavljati za jun.
-3. Prijaviti se paralelno na više programa — prijave su nezavisne, nema kazne.
-4. Pratiti eVŠ i mejl svakodnevno tokom postupka.
+3. Ako neki program traži formalnu potvrdu o znanju slovenačkog — vaditi je
+   tokom 2027, ne u godini prijave.
+4. Prijaviti se paralelno na više programa — prijave su nezavisne, nema kazne.
+5. Pratiti eVŠ i mejl svakodnevno tokom postupka.

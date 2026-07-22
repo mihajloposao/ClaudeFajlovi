@@ -1,11 +1,13 @@
 # IT master programi u Sloveniji
 
-Podaci iz razpisa 2025/26 i 2026/27. Za upis 2027 sve proveriti ponovo —
-razpis 2027/28 izlazi u periodu februar–jun 2027.
+Podaci iz razpisa 2025/26 i 2026/27. Za upis **2028** sve proveriti ponovo —
+razpis 2028/29 izlazi u periodu februar–jun 2028.
 
-## Glavni filter: jezik nastave
+## Jezik nastave
 
-Ovo je odluka koja seče listu na pola.
+Slovenački se uči i pohađanje će najverovatnije biti **na slovenačkom**, pa
+jezik nije ograničenje — najjači fakulteti su u igri. Tabela ostaje kao pregled,
+ali sada služi da se vidi šta je dostupno, a ne šta otpada.
 
 | Program | Fakultet | Grad | Jezik |
 |---|---|---|---|
@@ -20,9 +22,10 @@ Ovo je odluka koja seče listu na pola.
 | Informatika in podatkovne tehnologije | UM FERI | Maribor | samo slovenački |
 | Podatkovne znanosti, Kibernetska varnost i dr. | FIŠ Novo mesto | Novo mesto | slovenački |
 
-Znači: **dva najjača tehnička fakulteta (FRI i FERI) su zaključana bez jezika.**
-FRI engleska stranica doslovno kaže „Courses will be taught in Slovene" — samo
-predmeti za dolazne razmenske studente idu na engleskom.
+Ranije se računalo da su FRI i FERI nedostupni bez jezika (FRI engleska stranica
+doslovno kaže „Courses will be taught in Slovene" — na engleskom idu samo
+predmeti za dolazne razmenske studente). Sa odlukom da se uči slovenački, ta
+prepreka pada i oni postaju primarni izbor.
 
 ## Fakulteti — kratko
 
@@ -92,16 +95,25 @@ za boravak i rad na osnovu ugovora. Trajni boravak posle 5 godina.
 
 ## Preporuka
 
-**Bez slovenačkog (trenutno stanje):**
-1. **UP FAMNIT Koper, Data Science ili Računalništvo** — besplatno, engleski,
-   double degree sa Trstom. Najbolji odnos pristupačnost/kvalitet.
-2. **IPS Jožef Stefan** — ako ide u pravcu istraživanja/AI/doktorata.
-3. **UL EF Business Informatics** — ako više vuče IT+biznis nego inženjerstvo.
-4. **EMAI** — ako profil bude jak i cilj je prestižan međunarodni program.
+Sa slovenačkim kao datošću, redosled je:
 
-**Sa slovenačkim B2 do 2027:** prioritet se prebacuje na **UL FRI** (i FERI kao
-alternativa). Tada treba pripremiti izbirni izpit: matematika, programiranje,
-algoritmi, računarski sistemi.
+1. **UL FRI (Ljubljana)** — najjača reputacija za računarstvo u zemlji, najbolje
+   laboratorije, najviše poslova u gradu. Zahteva pripremu za **izbirni izpit**
+   (matematika, programiranje, algoritmi, računarski sistemi) — to je jedini
+   ozbiljan filter i planira se unapred.
+2. **UM FERI (Maribor)** — jaka industrijska saradnja, znatno jeftiniji život,
+   većina diplomiranih se zaposli u roku od 3 meseca. Realna alternativa ako
+   FRI ne prođe ili ako budžet presudi.
+3. **IPS Jožef Stefan** — ako se cilj pomeri ka istraživanju i doktoratu.
+4. **UP FAMNIT Koper** — rezerva. Manje selektivan, engleski, double degree sa
+   Trstom. Vredi zadržati kao sigurnu prijavu jer su prijave nezavisne.
 
-**Prag odluke:** ako do proleća 2027 nema realnog B2 — FAMNIT je primarni cilj i
-prijava se planira oko toga.
+**Šta ovo znači za pripremu:**
+- Jezik do **B2** — sa upisom 2028 ima dovoljno vremena, ali kreće posle rokova
+  2026. Neki fakulteti traže i formalnu potvrdu o znanju jezika, proveriti u
+  razpisu za konkretan program.
+- **Izbirni izpit za FRI** je poseban posao, ne rešava se usput. Gradivo se
+  poklapa sa osnovnim studijama, pa je najbolje da se ponavlja pre nego što se
+  zaboravi.
+- Prijaviti se paralelno na više programa (FRI + FERI + jedna rezerva) — prijave
+  su nezavisne i nema kazne za više prijava.

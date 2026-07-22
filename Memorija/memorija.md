@@ -30,11 +30,12 @@ Detaljno: [`profil.md`](profil.md) · [`stil-komunikacije.md`](stil-komunikacije
 - **Svi projekti su u pauzi do kraja rokova.** Fokus i Helthy rade i koriste se,
   ali se nove funkcionalnosti ne razvijaju.
   [`../Projekti/pregled-projekata.md`](../Projekti/pregled-projekata.md)
-- **Slovenački** — van perioda, vraća se posle rokova (master u Sloveniji je
-  najranije oktobar 2027). Istraživanje o studiranju u Sloveniji (troškovi,
-  smeštaj, IT master programi, prijava) je u
-  [`../Slovenija/README.md`](../Slovenija/README.md). Ključno: jezik je najveći
-  filter — bez slovenačkog otpadaju FRI i FERI, ostaje FAMNIT Koper na engleskom.
+- **Slovenački** — van perioda, vraća se posle rokova. **Učenje je zagarantovano**
+  (nije više otvoreno pitanje), a nastava na masteru će najverovatnije biti na
+  slovenačkom. Master u Sloveniji je pomeren na **oktobar 2028** (ranije 2027).
+  Istraživanje (troškovi, smeštaj, IT master programi, prijava) je u
+  [`../Slovenija/README.md`](../Slovenija/README.md). Pošto jezik nije prepreka,
+  primarni ciljevi su **UL FRI** i **UM FERI**, ne FAMNIT.
 
 ## Prioriteti (zaključano za ovaj period)
 

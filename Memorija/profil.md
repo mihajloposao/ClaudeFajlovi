@@ -49,6 +49,8 @@ Aktuelni ispiti (letnji rokovi 2026):
 
 ## Duži planovi
 
-- **Master u Sloveniji** — najranije oktobar 2027, verovatnije kasnije. Zato
-  slovenački jezik nije prioritet sada, nego posle rokova.
+- **Master u Sloveniji** — **oktobar 2028** (ranije se računalo na 2027).
+  Slovenački jezik se sigurno uči i nastava će najverovatnije biti na
+  slovenačkom; jezik nije prioritet sada, nego kreće posle rokova.
+  Detalji: [`../Slovenija/README.md`](../Slovenija/README.md)
 - **Motiv brend** — ideja u pauzi do posle ispita.

@@ -5,19 +5,23 @@ Novi unosi idu **na vrh**. Kratko — detalji žive u fajlovima projekata.
 
 ## 22.07.2026 (sreda)
 
-- **Nov folder `Slovenija/`** — istraživanje za master u Sloveniji (cilj oktobar
-  2027): troškovi života po gradovima, smeštaj, uporedna analiza IT master
-  programa, i kako radi prijava preko eVŠ. Pregled u
+- **Nov folder `Slovenija/`** — istraživanje za master u Sloveniji: troškovi
+  života po gradovima, smeštaj, uporedna analiza IT master programa, i kako radi
+  prijava preko eVŠ. Pregled u
   [`../Slovenija/README.md`](../Slovenija/README.md).
+- **Dve odluke potvrđene u razgovoru:**
+  - **Učenje slovenačkog je zagarantovano**, nastava na masteru najverovatnije
+    na slovenačkom. Time jezik prestaje da bude filter i **UL FRI i UM FERI
+    postaju primarni ciljevi** umesto FAMNIT-a.
+  - **Upis pomeren sa 2027 na oktobar 2028.** Dobija se dodatna godina za jezik
+    i za pripremu izbirnog izpita za FRI.
 - **Tri nalaza koja menjaju planiranje:**
   1. Redni master je **besplatan** za državljane Srbije, ali **nema prava na
      subvencionisan studentski dom** — smeštaj je puna cena.
-  2. **Jezik je glavni filter.** UL FRI i UM FERI predaju na slovenačkom.
-     Potpuno na engleskom: UP FAMNIT Koper, IPS Jožef Stefan, UL EF.
+  2. UL FRI ima obavezan **izbirni izpit** (matematika, programiranje,
+     algoritmi, računarski sistemi) — to je glavni filter, priprema se unapred.
   3. Prijava za master **nije lista želja** — svaki fakultet vodi svoj postupak
      sa svojim rokom, a rokovi za ne-EU kandidate su često raniji.
-- **Otvorena odluka:** da li se uči slovenački do 2027. Sa B2 se otvara FRI,
-  bez njega FAMNIT je primarni cilj. Učenje je i dalje odloženo do posle rokova.
 - Ništa nije menjano u planu za ispitni period — Slovenija je posle rokova.
 
 ## 19.07.2026 (nedelja)

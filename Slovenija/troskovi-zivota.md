@@ -1,7 +1,7 @@
 # Troškovi života — Ljubljana, Koper, Maribor
 
-Podaci 2025/2026. Za 2027 računati **10–20% više** (najamnine u Ljubljani rastu
-oko 10% godišnje).
+Podaci 2025/2026. Za **2028** računati **20–30% više** (najamnine u Ljubljani
+rastu oko 10% godišnje, a upis je pomeren za dve godine od prikupljanja podataka).
 
 ## Mesečni budžet — uporedno
 
