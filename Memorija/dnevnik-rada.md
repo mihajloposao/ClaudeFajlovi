@@ -3,6 +3,26 @@
 Hronologija sesija sa Claude-om: šta je urađeno, šta je odlučeno, šta ostaje.
 Novi unosi idu **na vrh**. Kratko — detalji žive u fajlovima projekata.
 
+## 22.07.2026 — Kupovina laptopa (istraživanje i strategija)
+
+- Kroz više krugova pitanja utvrđeni parametri kupovine i napravljen plan.
+  Sve zapisano u novom folderu **`Planovi/Kupovina/Laptop/`** (README + plan +
+  način razmišljanja + izvori/praćenje).
+- **Ključna odluka:** kupiti **krajem 2028 u Sloveniji, kao student** — poklapa se
+  sa OLED redizajnom (M7 Air, 2028) i studentskim popustom + EU garancijom.
+  Trenutni desktop pokriva period do tada; ako se preseli ranije, pomera se unapred.
+- **Favorit:** MacBook Air **24GB** (RAM > generacija čipa za horizont 2027–2031).
+  Ne-Apple (Zenbook S14 OLED 32GB / ThinkPad T14 nadogradiv) samo ako pobeđuje u
+  RAM-u/nadogradivosti/ceni/ekranu.
+- **Princip biranja:** troši na nepromenljivo (RAM, storidž, ekran, izrada),
+  štedi na neosetnom (generacija čipa).
+- **Tržišni nalazi (jul 2026):** M5 Air izašao mart 2026; M6 (~mart 2027)
+  evolutivan i skuplji; OLED (M7) 2028/2029. Za Apple je Srbija cenovno na nivou
+  EU — put se ne isplati osim studentskog statusa 2028.
+- **Postavljen zakazani zadatak** `nedeljna-analiza-laptop-trzista` (ponedeljkom
+  u 8h): analiza srpskog tržišta sa tri kategorije preporuka (iznad budžeta /
+  do budžeta / znatno jeftinije) + događaji za pratiti + preporuka nedelje.
+
 ## 22.07.2026 (sreda)
 
 - **Nov folder `Slovenija/`** — istraživanje za master u Sloveniji: troškovi

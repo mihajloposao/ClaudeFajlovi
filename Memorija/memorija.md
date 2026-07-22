@@ -37,6 +37,13 @@ Detaljno: [`profil.md`](profil.md) · [`stil-komunikacije.md`](stil-komunikacije
   [`../Slovenija/README.md`](../Slovenija/README.md). Pošto jezik nije prepreka,
   primarni ciljevi su **UL FRI** i **UM FERI**, ne FAMNIT.
 
+- **Kupovina laptopa (bez roka, prati se):** novi laptop, favorit **MacBook Air
+  24GB**. Plan je kupiti **krajem 2028 uz selidbu u Sloveniju** (poklapa se sa
+  OLED redizajnom M7 i studentskim popustom), osim ako se preseli ranije.
+  Trenutni desktop (Ryzen 5 5500 / 16GB / GPU 8GB) most je do tada. Postavljen
+  nedeljni zadatak praćenja cena (`nedeljna-analiza-laptop-trzista`, pon 8h).
+  Detalji: [`../Planovi/Kupovina/Laptop/README.md`](../Planovi/Kupovina/Laptop/README.md)
+
 ## Prioriteti (zaključano za ovaj period)
 
 Kad dva cilja dođu u sukob za vreme ili energiju, štiti se onaj viši:
