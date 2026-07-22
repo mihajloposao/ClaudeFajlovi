@@ -26,6 +26,9 @@ Projekti/
   Samo zapisi/       ideje i backlog
 
 Zdravlje/            ciljevi forme, trening, ishrana, ritual
+
+Slovenija/           master u Sloveniji (cilj okt 2027) — referentno, ne za
+  README.md            svaku sesiju; počni od README.md
 ```
 
 ## Pravila

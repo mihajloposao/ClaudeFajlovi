@@ -3,6 +3,23 @@
 Hronologija sesija sa Claude-om: šta je urađeno, šta je odlučeno, šta ostaje.
 Novi unosi idu **na vrh**. Kratko — detalji žive u fajlovima projekata.
 
+## 22.07.2026 (sreda)
+
+- **Nov folder `Slovenija/`** — istraživanje za master u Sloveniji (cilj oktobar
+  2027): troškovi života po gradovima, smeštaj, uporedna analiza IT master
+  programa, i kako radi prijava preko eVŠ. Pregled u
+  [`../Slovenija/README.md`](../Slovenija/README.md).
+- **Tri nalaza koja menjaju planiranje:**
+  1. Redni master je **besplatan** za državljane Srbije, ali **nema prava na
+     subvencionisan studentski dom** — smeštaj je puna cena.
+  2. **Jezik je glavni filter.** UL FRI i UM FERI predaju na slovenačkom.
+     Potpuno na engleskom: UP FAMNIT Koper, IPS Jožef Stefan, UL EF.
+  3. Prijava za master **nije lista želja** — svaki fakultet vodi svoj postupak
+     sa svojim rokom, a rokovi za ne-EU kandidate su često raniji.
+- **Otvorena odluka:** da li se uči slovenački do 2027. Sa B2 se otvara FRI,
+  bez njega FAMNIT je primarni cilj. Učenje je i dalje odloženo do posle rokova.
+- Ništa nije menjano u planu za ispitni period — Slovenija je posle rokova.
+
 ## 19.07.2026 (nedelja)
 
 - Napravljen i testiran Claude skill **`radni-kontekst`** — automatski učitava ovaj

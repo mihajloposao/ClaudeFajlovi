@@ -3,7 +3,7 @@
 Glavni fajl konteksta. Ovde je srž; detalji su u fajlovima na koje se linkuje.
 Ažurira se na kraju svake sadržajne sesije (skill `radni-kontekst`).
 
-**Poslednje ažuriranje:** 19.07.2026.
+**Poslednje ažuriranje:** 22.07.2026.
 
 ## Ko sam (ukratko)
 
@@ -31,7 +31,10 @@ Detaljno: [`profil.md`](profil.md) · [`stil-komunikacije.md`](stil-komunikacije
   ali se nove funkcionalnosti ne razvijaju.
   [`../Projekti/pregled-projekata.md`](../Projekti/pregled-projekata.md)
 - **Slovenački** — van perioda, vraća se posle rokova (master u Sloveniji je
-  najranije oktobar 2027).
+  najranije oktobar 2027). Istraživanje o studiranju u Sloveniji (troškovi,
+  smeštaj, IT master programi, prijava) je u
+  [`../Slovenija/README.md`](../Slovenija/README.md). Ključno: jezik je najveći
+  filter — bez slovenačkog otpadaju FRI i FERI, ostaje FAMNIT Koper na engleskom.
 
 ## Prioriteti (zaključano za ovaj period)
 
