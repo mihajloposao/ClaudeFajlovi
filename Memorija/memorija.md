@@ -3,7 +3,7 @@
 Glavni fajl konteksta. Ovde je srž; detalji su u fajlovima na koje se linkuje.
 Ažurira se na kraju svake sadržajne sesije (skill `radni-kontekst`).
 
-**Poslednje ažuriranje:** 22.07.2026.
+**Poslednje ažuriranje:** 24.07.2026.
 
 ## Ko sam (ukratko)
 
@@ -20,6 +20,10 @@ Detaljno: [`profil.md`](profil.md) · [`stil-komunikacije.md`](stil-komunikacije
 - **Tekući plan:** 14. jul – 23. avgust, dve faze (prvi prolaz kroz gradivo do
   9.8, pa konsolidacija). Sažetak:
   [`../Planovi/Generalni planovi/plan_14jul-23avgust_sazetak.md`](../Planovi/Generalni%20planovi/plan_14jul-23avgust_sazetak.md)
+- **Sistem rada (od 24.7):** kako se plan izvršava — jutro je nosivi prozor
+  (OI, pre dopamina), popodne oportuno, veče bonus; minimum dana se stepenuje po
+  oceni dana (stanje kod kuće, van kontrole). Pun sistem:
+  [`../Planovi/Generalni planovi/sistem-rada.md`](../Planovi/Generalni%20planovi/sistem-rada.md)
 - **Datumi ispita:** [`../Planovi/Faks/ispiti-rokovi.md`](../Planovi/Faks/ispiti-rokovi.md)
   Prvi rok počinje **26.8**, drugi **9.9**.
 - **Sekundarni cilj (revidirano 19.7):** rekompozicija — mišić + topljenje

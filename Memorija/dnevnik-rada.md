@@ -3,6 +3,28 @@
 Hronologija sesija sa Claude-om: šta je urađeno, šta je odlučeno, šta ostaje.
 Novi unosi idu **na vrh**. Kratko — detalji žive u fajlovima projekata.
 
+## 24.07.2026 (petak) — Kriza plana + novi sistem rada
+
+- **Povod:** plan 14.7–23.8 je stao — prvih ~10 dana neujednačeno, pa 21–24.7
+  potpuna tišina u Fokusu. Povučeni Fokus podaci i planovi; kroz razgovor se došlo
+  do uzroka i do sistema koji ga sprečava.
+- **Pravi uzrok (ne lenjost):** anticipatorna anksioznost — pre podne strah od
+  popodneva (nemir kod kuće, van kontrole) → zamrzavanje → grabljenje dopamina
+  „sad ili nikad" → popodne propadne uz krivicu → sutradan se strah potvrdi. Uz to
+  obrazac „kreni maksimalno pa stani" i beg energije u projekte (6,5h na
+  StartingFive prvog dana plana).
+- **Novi dokument** `Planovi/Generalni planovi/sistem-rada.md` — lični sistem
+  rada: tri prozora (jutro nosivi / popodne oportuno / veče bonus), blok
+  (vreme = granica, cilj = kompas), stepenovani minimum po oceni dana
+  (dobar/onako/loš), odmor sa dve kočnice (pod + ivica/tajmer), kritična stanja →
+  potez, re-entry posle pada, nedeljni pregled. Drži pravila, ne sate — konkretne
+  brojke i planove postavlja Mihajlo sam.
+- **Izmenjen zakazani zadatak `fokus-weekly-review`:** sada traži kritične momente
+  (zašto dolazi do pada) i prolazi ih s Mihajlom; meri output, ne samo minute.
+- **Otvorena tema:** strah od napretka (pad odmah posle dobrih dana) i osećaj
+  „napredak ili mir". Sistem je namerno građen da napredak može da živi pored mira,
+  ne kao rat.
+
 ## 22.07.2026 — Kupovina laptopa (istraživanje i strategija)
 
 - Kroz više krugova pitanja utvrđeni parametri kupovine i napravljen plan.
