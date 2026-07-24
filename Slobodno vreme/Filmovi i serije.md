@@ -25,6 +25,23 @@ izostaje iz unosa umesto da se pretpostavi.
 
 ## Unosi
 
+### Legends (serija) — 24.07.2026.
+
+- **Ocena:** 4/10
+- **Utisak:** Ne zna ni šta je odgledao. Nije ni ekipi koja je pravila seriju
+  jasno da li žele da ispričaju neku situaciju ili da budu komični.
+- **Svidelo se:** Rasterećujuća — nema mračnih scena niti bilo čega što bi
+  pokvarilo raspoloženje.
+- **Nije se svidelo:** Loša gluma, nerazvijeni likovi, nejasan ton (drama vs.
+  komedija). Svrstava je u kategoriju **"produženi film"** — njegov termin za
+  serije koje ne iskoriste višak vremena za razvoj likova ili detaljnije
+  pričanje priče, nego ga popunjavaju akcijom i glupim forama. Ovog puta ni
+  britansko poreklo nije pomoglo.
+- **Žanr/vajb:** Britanska, akciona/komična, plitka.
+- **Poređenje:** Suprotno od [`This City Is Ours`](#this-city-is-ours-serija--24072026)
+  i [`Slow Horses`](#slow-horses-serija--24072026) — britansko poreklo samo
+  po sebi nije garancija, presudni su razvoj likova i jasnoća tona/priče.
+
 ### Slow Horses (serija) — 24.07.2026.
 
 - **Ocena:** minimum 8.5, možda 9 (zavisi od sezone)
