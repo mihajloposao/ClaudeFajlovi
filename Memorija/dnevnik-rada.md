@@ -3,6 +3,16 @@
 Hronologija sesija sa Claude-om: šta je urađeno, šta je odlučeno, šta ostaje.
 Novi unosi idu **na vrh**. Kratko — detalji žive u fajlovima projekata.
 
+## 24.07.2026 (petak) — Praćenje filmova i serija
+
+- **Nov folder `Slobodno vreme/`** sa fajlom
+  [`Filmovi i serije.md`](../Slobodno%20vreme/Filmovi%20i%20serije.md) — log
+  utisaka o odgledanim filmovima/serijama (format unosa je u samom fajlu).
+- **Novi workflow:** kad Mihajlo pomene naslov filma/serije, Claude pita o
+  iskustvu (ocena, utisak, šta je i nije radilo, poređenje sa sličnim
+  naslovima) i upisuje odgovor kao nov unos. Cilj — vremenom nakupiti dovoljno
+  podataka za analizu ukusa i preporuke.
+
 ## 24.07.2026 (petak) — Kriza plana + novi sistem rada
 
 - **Povod:** plan 14.7–23.8 je stao — prvih ~10 dana neujednačeno, pa 21–24.7
