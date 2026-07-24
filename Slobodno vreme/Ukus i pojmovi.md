@@ -32,6 +32,11 @@ izvršenja, ostaje čista mana (vidi *Legends*).
 - **Neizvesnost i originalnost su veliki plus.** Kad nije jasno šta će lik
   uraditi i zašto, ili kad serija prati sopstveni unikatan vajb bez jasnog
   šablona (*This City Is Ours*, *Stranger Things* S1–2).
+- **Preciznije: reč je o dilemi unutar lika, ne o „kome verovati".** Ne traži
+  whodunit/zagonetku ko je izdajnik, nego moralnu neizvesnost — hoće li lik
+  povući potez i zašto ga (ne) povlači (*This City Is Ours*: hoće li Majkl
+  ubiti onog čoveka). Uz to voli kad se motivacija lika naknadno objasni
+  otkrivanjem njegove prošlosti, a ne ostane visiti (Majklova devojka).
 - **Britanske serije — blagi plus, ali ne garancija.** Voli ih generalno
   (*This City Is Ours*, *Slow Horses*), ali samo britansko poreklo nije
   dovoljno ako fale razvijeni likovi i jasan ton (*Legends*).

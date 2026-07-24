@@ -117,10 +117,13 @@ ponavljaju kroz više unosa. Ažurira se usput, ne mora svaki put.
 - **Svidelo se:** Realizam — kroz celu seriju se trude da objasne stvari tako
   da deluje što realnije (nije moguće samo nabaviti pištolj ili uraditi nešto
   kriminalno bez posledica). Jaka unutrašnja dilema likova — nije jasno šta će
-  tačno uraditi i zašto (npr. zašto Majklova devojka odluči da ga podrži), sve
-  do razrešenja na kraju. Iako je kriminalna serija sa nelakim temama, ima
-  jako malo mračnih i teških scena koje bi opterećivale gledanje. Majkl kao
-  lik ima puno "aure".
+  tačno uraditi i zašto; najjači primer je Majkl i pitanje da li će ubiti onog
+  čoveka i zašto ne. Nije reč o dilemi „kome će verovati" — kod Majklove
+  devojke nejasnoća je bila **zašto ona njemu veruje**, i to se razreši tek
+  kad se otkrije njena prošlost (motivacija se objasni naknadno, a ne ostaje
+  neobjašnjena). Iako je kriminalna serija sa nelakim temama, ima jako malo
+  mračnih i teških scena koje bi opterećivale gledanje. Majkl kao lik ima
+  puno „aure".
 - **Nije se svidelo:** Nije naveo konkretno — pominje da razume mane koje
   drugi navode, ali se ne slaže s tim/ne precizira koje.
 - **Žanr/vajb:** Britanska kriminalna drama, jaka psihologija likova, realizam
