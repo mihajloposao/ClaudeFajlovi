@@ -25,6 +25,22 @@ izostaje iz unosa umesto da se pretpostavi.
 
 ## Unosi
 
+### Slow Horses (serija) — 24.07.2026.
+
+- **Ocena:** minimum 8.5, možda 9 (zavisi od sezone)
+- **Utisak:** Zna tačno šta gleda — smešna detektivska/špijunska serija, i to
+  rade savršeno, ne pokušavaju da budu nešto što nisu. Sigurno će gledati
+  nove sezone.
+- **Svidelo se:** Vrlo dobro uklopljen humor i priča. Likovi predobri —
+  posebno šef, sekretarica i IT lik. Par baš dobrih plot tvistova. Britanska
+  (pomaže — generalno voli britanske serije).
+- **Nije se svidelo:** Par sezona ima dosta prostu, lako providnu priču koja
+  odstupa od globalne priče serije.
+- **Žanr/vajb:** Komična detektivska/špijunska serija, humor + priča dobro
+  spojeni, samosvesna (ne pretenciozna).
+- **Poređenje:** Britanska, kao [`This City Is Ours`](#this-city-is-ours-serija--24072026)
+  — potvrđuje sklonost ka britanskim serijama.
+
 ### From (serija) — 24.07.2026.
 
 - **Ocena:** 7–8.5/10 (zavisi od raspoloženja)
