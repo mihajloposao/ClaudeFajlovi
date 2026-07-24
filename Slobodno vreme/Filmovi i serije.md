@@ -25,6 +25,26 @@ izostaje iz unosa umesto da se pretpostavi.
 
 ## Unosi
 
+### From (serija) — 24.07.2026.
+
+- **Ocena:** 7–8.5/10 (zavisi od raspoloženja)
+- **Utisak:** Prve dve sezone jako dobre — drugačije, stvarno drže pažnju.
+  Treća sezona i deo četvrte jako razvučeni, veoma spor razvoj radnje, zna da
+  smara. Peta sezona ima veliki potencijal da izvuče seriju da mu bude jedna
+  od omiljenih.
+- **Svidelo se:** Koncept prve dve sezone. Pojedine epizode veoma interesantne
+  (npr. poslednja epizoda 4. sezone). Iako generalno ne voli horore, ova mu
+  je okej jer nije previše mračna i ne ostavlja težak osećaj.
+- **Nije se svidelo:** Treća sezona i deo četvrte razvučeni/spori. Rešenje
+  misterije ispada nešto nerealno/imaginarno, a više voli realističnije
+  stvari. Dramski deo — odnosi likova, svakodnevni odnosi — po njemu dosta
+  loše odrađen.
+- **Žanr/vajb:** Horor/misterija, ali ne previše mračna, ne ostavlja težak
+  osećaj (bitno jer inače nije fan horora).
+- **Poređenje:** Generalno ne voli horore, izuzetak zbog tona. Slično kao kod
+  [`This City Is Ours`](#this-city-is-ours-serija--24072026) — smeta mu kad
+  rešenje/twist deluje nerealno, više voli realizam.
+
 ### This City Is Ours (serija) — 24.07.2026.
 
 - **Ocena:** 10/10
