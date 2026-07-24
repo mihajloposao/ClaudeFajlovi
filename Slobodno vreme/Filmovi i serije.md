@@ -12,6 +12,10 @@ poređenje sa sličnim naslovima — i upisuje odgovore ovde kao nov unos.
 **Novi unosi idu na vrh.** Ništa se ne izmišlja — ako nešto nije rečeno,
 izostaje iz unosa umesto da se pretpostavi.
 
+Paralelno se vodi [`Ukus i pojmovi.md`](Ukus%20i%20pojmovi.md) — termini koje
+Mihajlo sam definiše (npr. "produženi film") i obrasci u ukusu koji se
+ponavljaju kroz više unosa. Ažurira se usput, ne mora svaki put.
+
 ## Format unosa
 
 ### Naziv (film/serija) — DD.MM.GGGG.
