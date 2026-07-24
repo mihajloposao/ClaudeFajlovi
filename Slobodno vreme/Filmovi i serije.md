@@ -25,6 +25,32 @@ izostaje iz unosa umesto da se pretpostavi.
 
 ## Unosi
 
+### Stranger Things (serija) — 24.07.2026.
+
+- **Ocena:** ukupno 7.5–8.5, ali jako varira po sezoni:
+  sezona 1–2: 8.5+ · sezona 3: ~6 · sezona 4: do 8.5 · sezona 5: 2
+- **Utisak:** Ocena zavisi mnogo od sezone — serija je prošla kroz nekoliko
+  potpuno različitih faza kvaliteta, od odličnog originalnog vajba do
+  potpunog raspada u poslednjoj sezoni.
+- **Svidelo se:** Prve dve sezone — drugačije, prate svoj unikatan vajb, nije
+  jasno kako i šta će se desiti (ista vrsta neizvesnosti koju je hvalio kod
+  `This City Is Ours`). Sezona 4 — iako je po njegovoj definiciji "produženi
+  film", jako dobar primer toga: intenzitet epizoda i produkcija toliko
+  dobri da je možda nadmašila i unikatnost prve dve sezone, samo na drugi
+  način. Jedino vredno u sezoni 3: dubina u izgradnji lika Bilija i
+  razumevanje onoga kroz šta je prošao.
+- **Nije se svidelo:** Sezona 3 — zaokret u vajbu, "svo to šarenilo", opisuje
+  kao nešto za Nikelodeon za decu; pada na ~6 uprkos uspostavljenoj
+  povezanosti sa likovima i visokom nivou produkcije. Sezona 5 — "totalni
+  raspad sistema", jedva 2 (ne 1 samo zbog povezanosti sa likovima izgrađene
+  ranije).
+- **Žanr/vajb:** Sci-fi/horor-avantura, kvalitet drastično zavisi od sezone.
+- **Poređenje:** Sezona 4 pokazuje da "produženi film" (vidi
+  [`Legends`](#legends-serija--24072026)) ne mora biti loš ako je izvršenje
+  (produkcija, intenzitet) dovoljno jako. Sezone 1–2 dele isti kvalitet
+  neizvesnosti/originalnosti koji ceni kod
+  [`This City Is Ours`](#this-city-is-ours-serija--24072026).
+
 ### Legends (serija) — 24.07.2026.
 
 - **Ocena:** 4/10
