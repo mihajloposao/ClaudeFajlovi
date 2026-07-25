@@ -22,7 +22,8 @@ Detaljno: [`profil.md`](profil.md) · [`stil-komunikacije.md`](stil-komunikacije
   [`../Planovi/Generalni planovi/plan_14jul-23avgust_sazetak.md`](../Planovi/Generalni%20planovi/plan_14jul-23avgust_sazetak.md)
 - **Sistem rada (od 24.7):** kako se plan izvršava — jutro je nosivi prozor
   (OI, pre dopamina), popodne oportuno, veče bonus; minimum dana se stepenuje po
-  oceni dana (stanje kod kuće, van kontrole). Pun sistem:
+  oceni dana (stanje kod kuće, van kontrole). Dopaminska zabava (30 min) sme tek
+  kad su SVI blokovi učenja koje dan traži skinuti, ne posle prvog. Pun sistem:
   [`../Planovi/Generalni planovi/sistem-rada.md`](../Planovi/Generalni%20planovi/sistem-rada.md)
 - **Datumi ispita:** [`../Planovi/Faks/ispiti-rokovi.md`](../Planovi/Faks/ispiti-rokovi.md)
   Prvi rok počinje **26.8**, drugi **9.9**.

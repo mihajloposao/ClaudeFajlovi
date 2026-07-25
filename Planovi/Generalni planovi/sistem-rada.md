@@ -40,7 +40,7 @@ Unutar prozora: kratke pauze, ali NE dopaminske (šetnja, voda, sto).
 - Teško/otvoreno (OI) = vreme-bazirano. Mehaničko/konačno (PJ2, VI) = cilj-bazirano.
 - Jedan predmet po bloku. Fokus meri start-stop. Uz svaki blok upisujem i cilj —
   vreme I output (npr. koja/koliko pitanja) — da pregled vidi napredak, ne samo minute.
-- Redosled uvek: nosivi blok → pa nagrada, bez krivice.
+- Redosled uvek: prvo svi blokovi koje dan traži → pa nagrada, bez krivice.
 
 ## 3. Dnevni cilj — ocena dana
 
@@ -56,6 +56,9 @@ Dve brave: (1) jutarnji blok je bezuslovan — radim ga PRE nego što znam ocenu
 ocena skalira popodne, ne jutro. (2) ocena prati kuću, ne raspoloženje — „loš"
 nije „ne da mi se".
 
+Ovo je ujedno i kapija za dopamin: 30 min zabave se otvara tek kad ispunim ono
+što ocena dana traži (loš → pod; onako → pod + popodnevni blok; dobar → svi ciljevi).
+
 **Tačka stajanja:** ispunim koliko dan traži → tu stajem, i kad bih mogao više.
 Višak volje je gorivo za sutra, ne za danas.
 
@@ -64,11 +67,13 @@ Višak volje je gorivo za sutra, ne za danas.
 - **Pod:** garantovan dnevni odmor + san pre svega + jedan planiran lak dan
   nedeljno. Da ne pregorim.
 - **Ivica:** svaki odmor ima tajmer/kraj i zakazan je u dan. Da se ne razlije.
-- **Dopamin (IG i ostali jedači):** 30 min, ali tek posle uspešno skinutog bloka.
-  Obavezno alarm + unapred odlučeno šta u 30:01 (sledeći blok ili šetnja). Alarm
-  je ivica, blok je zasluga.
-- **Tip odmora:** usred dana samo odmor sa dnom (šetnja, obrok, dremka, epizoda);
-  bezdan (skrol, autoplay, igrica) tek uz onih 30 min ili uveče.
+- **Dopamin (IG i ostali jedači):** 30 min, ali tek kad su SVI blokovi učenja koje
+  dan traži (po oceni dana) skinuti — ne posle prvog bloka. Između blokova ide
+  samo nedopaminska pauza. Obavezno alarm + unapred odlučeno šta u 30:01 (šetnja,
+  obrok, veče). Alarm je ivica, ceo dnevni posao je zasluga.
+- **Tip odmora:** usred dana, dok blokovi još stoje, samo odmor sa dnom (šetnja,
+  obrok, dremka, epizoda); bezdan (skrol, autoplay, igrica) tek uz onih 30 min
+  posle završenih blokova, ili uveče.
 - **Lak dan:** jedan nedeljno, idealno dan s najviše sporta; tada se traži samo pod.
 
 ## 5. Kritična stanja — prepoznaj → potez
@@ -76,8 +81,8 @@ Višak volje je gorivo za sutra, ne za danas.
 - **Jutarnja ukočenost + „popodne = sranje":** prvo telo (disanje / šetnja /
   trening), pa start do apsurda (otvori svesku, jedna linija). Radim pored
   anksioznosti, ne čekam da prođe.
-- **„Dopamin sad ili nikad":** nagrada je zagarantovana posle bloka; telefon
-  zaključan do bloka.
+- **„Dopamin sad ili nikad":** nagrada je zagarantovana, ali tek kad dan bude
+  skinut; telefon zaključan do poslednjeg bloka.
 - **Beg u projekte usred učenja:** projekti su za veče, uslovno; sad se vraćam na
   upisani zadatak.
 - **Prvi prazan dan:** re-entry (tačka 6), ne restart.
