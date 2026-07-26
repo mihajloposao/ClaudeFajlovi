@@ -38,7 +38,7 @@ nisu protivnici — protivnik je „sve ili ništa".
   skinut. Programiranje/projekti — sankcionisani ventil, kao zaslužen odmor, ne
   obaveza.
 
-Unutar prozora: kratke pauze, ali NE dopaminske (šetnja, voda, sto).
+Unutar prozora: kratke pauze, ali NE dopaminske — spisak dozvoljenih je u tački 4.
 
 ## 2. Blok
 
@@ -77,9 +77,15 @@ Višak volje je gorivo za sutra, ne za danas.
   dan traži (po oceni dana) skinuti — ne posle prvog bloka. Između blokova ide
   samo nedopaminska pauza. Obavezno alarm + unapred odlučeno šta u 30:01 (šetnja,
   obrok, veče). Alarm je ivica, ceo dnevni posao je zasluga.
-- **Tip odmora:** usred dana, dok blokovi još stoje, samo odmor sa dnom (šetnja,
-  obrok, dremka, epizoda); bezdan (skrol, autoplay, igrica) tek uz onih 30 min
-  posle završenih blokova, ili uveče.
+- **Nedopaminski odmor (dozvoljen između blokova):** šetnja, voda, obrok, dremka,
+  ustajanje od stola, plus:
+  - rad na **StartingFive** (kratko, uz tajmer — inače postaje beg u projekte),
+  - bilo šta **uz Claude**,
+  - **vesti o Partizanu**,
+  - **odlazak u dnevnu sobu**.
+- **Tip odmora:** usred dana, dok blokovi još stoje, samo odmor sa dnom (spisak
+  iznad); bezdan (skrol, autoplay, igrica) tek uz onih 30 min posle završenih
+  blokova, ili uveče.
 - **Lak dan:** jedan nedeljno, idealno dan s najviše sporta; tada se traži samo pod.
 
 ## 5. Kritična stanja — prepoznaj → potez
