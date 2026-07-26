@@ -24,10 +24,16 @@ nisu protivnici — protivnik je „sve ili ništa".
 
 ## 1. Dan — tri prozora
 
+> **Revizija 26.7:** težinu dana nosi JEDAN predmet, i koji je to menja se po
+> fazama (sad OI teorija, od ~10.8 PJ2). Oba dnevna bloka idu na taj predmet, u
+> različitim modovima. Drugi predmeti dolaze tek kad je dnevna kvota ispunjena.
+> Konkretne kvote i datumi: [`../Faks/ritam-ucenja.md`](../Faks/ritam-ucenja.md).
+
 - **Jutro (nosivi), ~10–15h:** najteže, OI teorija, PRE dopamina. Prvi potez dana
   je nosivi blok. Trening (radnim danima) sme pre bloka ako me budi, inače posle.
-- **Popodne (oportuni), ~16–19h:** lakši/mehanički predmeti (PJ2, VI pod satom,
-  Numerička), po zadatku koji sam izabrao još ujutru.
+- **Popodne (oportuni), ~16–19h:** drugi blok nosećeg predmeta u lakšem modu
+  (OI zadaci umesto teorije), ili — ako je kvota već ispunjena — sledeći predmet
+  po prioritetu (PJ2 → VI → Numerička), po zadatku izabranom još ujutru.
 - **Veče (bonus), ~20–22h:** samo kad nema utakmice + kuća mirna + dnevni posao
   skinut. Programiranje/projekti — sankcionisani ventil, kao zaslužen odmor, ne
   obaveza.
@@ -47,7 +53,7 @@ Unutar prozora: kratke pauze, ali NE dopaminske (šetnja, voda, sto).
 Minimum se stepenuje prema stanju kod kuće (u Fokus, polje `ocena`: dobar / onako / loš):
 
 - **Pod (svaki dan, i u vanrednim okolnostima ili pored neplaniranih obaveza):**
-  bar jedan blok učenja, normalno jutarnji. Radni dan → i trening.
+  bar jedan blok učenja nosećeg predmeta, normalno jutarnji. Radni dan → i trening.
 - **loš** → samo pod.
 - **onako** → pod + bar jedan popodnevni blok.
 - **dobar** → svi ciljevi.

@@ -3,7 +3,7 @@
 Glavni fajl konteksta. Ovde je srž; detalji su u fajlovima na koje se linkuje.
 Ažurira se na kraju svake sadržajne sesije (skill `radni-kontekst`).
 
-**Poslednje ažuriranje:** 24.07.2026.
+**Poslednje ažuriranje:** 26.07.2026.
 
 ## Ko sam (ukratko)
 
@@ -25,6 +25,12 @@ Detaljno: [`profil.md`](profil.md) · [`stil-komunikacije.md`](stil-komunikacije
   oceni dana (stanje kod kuće, van kontrole). Dopaminska zabava (30 min) sme tek
   kad su SVI blokovi učenja koje dan traži skinuti, ne posle prvog. Pun sistem:
   [`../Planovi/Generalni planovi/sistem-rada.md`](../Planovi/Generalni%20planovi/sistem-rada.md)
+- **Ritam učenja (od 26.7):** težinu dana nosi JEDAN predmet, i to se pomera po
+  fazama. Sad **OI teorija** — kvota **42 pitanja do 5.8** (min 4/dan, optimum 6),
+  oba bloka na OI; drugi predmet tek posle kvote, redom PJ2 → VI → Numerička.
+  Od ~10.8 težinu preuzima **PJ2**, OI prelazi u ponavljanje. Prekidač je vezan za
+  datum, ne za uslov. Pun ritam, računica i pravila:
+  [`../Planovi/Faks/ritam-ucenja.md`](../Planovi/Faks/ritam-ucenja.md)
 - **Datumi ispita:** [`../Planovi/Faks/ispiti-rokovi.md`](../Planovi/Faks/ispiti-rokovi.md)
   Prvi rok počinje **26.8**, drugi **9.9**.
 - **Sekundarni cilj (revidirano 19.7):** rekompozicija — mišić + topljenje

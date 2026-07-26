@@ -76,6 +76,31 @@ Novi unosi idu **na vrh**. Kratko — detalji žive u fajlovima projekata.
      sa svojim rokom, a rokovi za ne-EU kandidate su često raniji.
 - Ništa nije menjano u planu za ispitni period — Slovenija je posle rokova.
 
+## 26.07.2026 (nedelja)
+
+- **Odlučen novi ritam učenja** (nov fajl `Planovi/Faks/ritam-ucenja.md`).
+  Umesto rotacije predmeta kroz dan, **težinu dana nosi jedan predmet i to se
+  pomera po fazama**. Razlog koji je Mihajlo dao: Numerička, VI i OI pismeni su
+  neuporedivo lakši i kraći od PJ2, a PJ2 kraći od OI teorije — pa se lakši
+  predmeti bolje uklapaju posle nego paralelno.
+- **Faza A (26.7 → 5.8):** OI teorija, **42 pitanja**, min 4 / optimum 6 dnevno.
+  Oba dnevna bloka na OI (jutro teorija, popodne zadaci — isti predmet, drugi
+  mod). Pod = bar jedan od ta dva bloka. Posle ispunjene kvote: PJ2 → VI →
+  Numerička.
+- **Provera računice:** 11 dana × 4 = 44 prema 42 → bafer samo 2 pitanja. Zato je
+  4 pod, a plan 5–6. Kontrolna tačka: kraj četvrtka 30.7, minimum 20 pređenih.
+- **Nova pravila:** prati se kumulativa a ne dan; promašen dan se rešava
+  preračunavanjem stope (ne nadoknadom — čuva re-entry pravilo); teška pitanja
+  prva; pitanje se broji tek ako se suština kaže bez gledanja; VI dobija jedan
+  timed prolaz nedeljno (palo je zbog brzine, ne znanja).
+- **Faza B od ~10.8:** PJ2 preuzima glavni blok, OI prelazi u ponavljanje (ima
+  usmeni 5.9, najduži rep). Prekidač vezan za **datum, ne za uslov** — otvoren
+  uslov bi pustio OI da se širi.
+- **Otvoreno:** izmeriti PJ2 jednim blokom (~90 min) pre nego što ga faza A
+  ostavi da čeka — pretpostavka „PJ2 = najmanje brige" je stara i neproverena.
+- Pooštreno pravilo komunikacije u `stil-komunikacije.md`: koncizno, iskreno,
+  suština bez uobičajenih fraza — važi za svaki odgovor, ne samo za uvode.
+
 ## 19.07.2026 (nedelja)
 
 - Napravljen i testiran Claude skill **`radni-kontekst`** — automatski učitava ovaj

@@ -3,6 +3,11 @@
 Skraćena verzija fajla `Plan_14jul-23avgust.pdf`, da se PDF ne mora parsirati u
 svakoj sesiji. Za pune detalje (dnevni slotovi, obrazloženja) otvoriti PDF.
 
+> **Revizija 26.7.2026:** način izvršavanja faze 1 je promenjen — umesto rotacije
+> predmeta kroz dan, težinu dana nosi jedan predmet (sad OI teorija, kvota 42
+> pitanja do 5.8), a ostali se uklapaju tek posle ispunjene kvote. Ciljevi i
+> datumi faza ostaju isti. Detalji: [`../Faks/ritam-ucenja.md`](../Faks/ritam-ucenja.md).
+
 **Period:** uto 14.7. → ned 23.8.2026, do poslednjeg dana pre ispitnih rokova.
 **Glavni cilj:** biti spreman za sve ispite — uzima najveći deo svakog dana,
 svi ostali ciljevi su mu podređeni.
@@ -28,9 +33,10 @@ svi ostali ciljevi su mu podređeni.
 ## Dve faze
 
 **Faza 1 · 14.7 – 9.8 — prvi prolaz kroz gradivo**
-Režim: obradi novo. OI teorija stalno u jutarnjim blokovima; VI pod satom;
-Numerička, OI zadaci i PJ2 rotiraju kroz srednje i popodnevne slotove; FMiR samo
-ako nedelja ostane viška. *Rani signal problema:* ako neki predmet do kraja 2.
+Režim: obradi novo. *Od 26.7:* oba dnevna bloka idu na OI teoriju (kvota 4–6
+pitanja dnevno, svih 42 do 5.8); PJ2, VI i Numerička dolaze tek posle ispunjene
+kvote, tim redom; VI dodatno jedan timed prolaz nedeljno; FMiR samo ako nedelja
+ostane viška. *Rani signal problema:* ako neki predmet do kraja 2.
 nedelje nije nijednom otvoren → FMiR ispada, tercijarni na minimum.
 
 **Faza 2 · 10.8 – 23.8 — konsolidacija (ne novo gradivo)**
