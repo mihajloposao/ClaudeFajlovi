@@ -3,6 +3,34 @@
 Hronologija sesija sa Claude-om: šta je urađeno, šta je odlučeno, šta ostaje.
 Novi unosi idu **na vrh**. Kratko — detalji žive u fajlovima projekata.
 
+## 29.07.2026 (sreda) — Trening: nova oprema i nova struktura
+
+- **Prvi trening odrađen 28.7** (Gornji A). Baseline: sve vežbe sa kombinacijom
+  žuta+crvena+crna (lateralna žuta+crvena), **gornja granica opsega u svakoj
+  seriji svake vežbe** — dakle prelako. Umor pred kraj je od obima (~22 serije),
+  ne od kondicije. Zaključak: gume su na plafonu, progresija dalje ide kroz
+  dužinu hvata, ne kroz boju.
+- **Nabavljen door anchor (28.7)** i **vratilo (29.7).** Vratilo je veća promena
+  — sopstvena težina je teža od svake gume, pa zgibovi postaju glavna vežba za
+  širinu. Park vikendom više nije potreban. Okinut treći okidač za reviziju plana.
+- **Trening nogu u sredu 29.7 propušten** (umor + obaveze po gradu). Ne
+  nadoknađuje se duplim danom.
+- **Odluka o nogama:** Mihajlo je tražio da se noge izbace u korist gornjeg dela,
+  pošto mu je cilj izgled. Ishod razgovora: zadržan **jedan dan nogu, skraćen na
+  ~35 min**. Argument koji je presudio nije rast nogu nego nesimetrična cena
+  greške — grupa koja padne na nulu se teško vraća, a cena zadržavanja je mala.
+  Četvrti upper dan odbačen: tri dana već pune koristan obim u deficitu, a
+  plafon je podiglo vratilo, ne dodatni sati.
+- **Nov plan (važi od pon 3.8):** vuča/guranje podela umesto A/B/C, svaka grupa
+  2× nedeljno. Pon Vuča A · Uto Guranje A · Sre Noge+core · Čet Vuča B · Pet
+  Guranje B+core. Poseban HIIT dan izbačen — stomak skida deficit, ne kardio u
+  sobi. Pun plan: [`../Zdravlje/trening-plan.md`](../Zdravlje/trening-plan.md)
+- **Ova nedelja je prelazna:** čet 30.7 Gornji B (sa zgibovima), pet 31.7 noge.
+- **Sledeća oprema:** ranac sa knjigama za opterećene zgibove/propadanja kad se
+  pređe 12 čistih ponavljanja.
+- Napomena: plan je na Mihajlov izričit zahtev pravljen **bez ispita kao
+  kriterijuma** — čisto po efikasnosti. Prioriteti u memoriji se time ne menjaju.
+
 ## 24.07.2026 (petak) — Praćenje filmova i serija
 
 - **Nov folder `Slobodno vreme/`** sa fajlom

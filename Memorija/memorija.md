@@ -3,7 +3,7 @@
 Glavni fajl konteksta. Ovde je srž; detalji su u fajlovima na koje se linkuje.
 Ažurira se na kraju svake sadržajne sesije (skill `radni-kontekst`).
 
-**Poslednje ažuriranje:** 26.07.2026.
+**Poslednje ažuriranje:** 29.07.2026.
 
 ## Ko sam (ukratko)
 
@@ -33,8 +33,12 @@ Detaljno: [`profil.md`](profil.md) · [`stil-komunikacije.md`](stil-komunikacije
   [`../Planovi/Faks/ritam-ucenja.md`](../Planovi/Faks/ritam-ucenja.md)
 - **Datumi ispita:** [`../Planovi/Faks/ispiti-rokovi.md`](../Planovi/Faks/ispiti-rokovi.md)
   Prvi rok počinje **26.8**, drugi **9.9**.
-- **Sekundarni cilj (revidirano 19.7):** rekompozicija — mišić + topljenje
-  stomaka, ne samo kilaža. Trening 5×/ned po planu u
+- **Sekundarni cilj (revidirano 29.7):** rekompozicija — mišić + topljenje
+  stomaka, ne samo kilaža. **Streak treninga počeo 28.7.** Nabavljeni door
+  anchor (28.7) i **vratilo** (29.7) — zgibovi su sada glavna vežba za širinu,
+  gume su na plafonu i progresija ide kroz dužinu hvata. Plan prepravljen 29.7 u
+  vuča/guranje podelu (svaka grupa 2×/ned) + jedan skraćen dan nogu; važi od
+  3.8. Trening 5×/ned po planu u
   [`../Zdravlje/trening-plan.md`](../Zdravlje/trening-plan.md); ishrana i limiti u
   [`../Zdravlje/ciljevi-i-navike.md`](../Zdravlje/ciljevi-i-navike.md).
   Doslednost i dalje merilo.
@@ -68,7 +72,7 @@ Kad dva cilja dođu u sukob za vreme ili energiju, štiti se onaj viši:
 
 - **Nedeljni pregled: nedeljom 19–20h.** Najvažniji je bio 9. avgust (kraj faze 1).
 - Jutarnji blokovi (najsvežija glava) rezervisani za OI1 teoriju.
-- Trening ujutru radnim danima, 2–3× nedeljno.
+- Trening 5× nedeljno (pon–pet), ujutru kad dan dozvoli — posle OI bloka.
 
 ## Dnevnik rada
 

@@ -1,117 +1,157 @@
-# Trening plan — od 21.7.2026.
+# Trening plan — od 3.8.2026.
 
-**Poslednje ažuriranje:** 20.07.2026.
+**Poslednje ažuriranje:** 29.07.2026.
 **Cilj:** rekompozicija — izgradnja mišića (prioritet: ramena/leđa → V-oblik)
 uz topljenje stomaka kroz deficit. Ishrana u
 [`ciljevi-i-navike.md`](ciljevi-i-navike.md).
 
 ## Oprema — trenutno stanje
 
-- **Imam:** 4 loop gume 208cm — žuta (5–15 lbs), crvena (15–35), crna (30–60),
-  ljubičasta (60–100). Kombinovanje više guma za međukorake je poznato i OK.
-- **Nemam:** pull-up bar (vratilo otpada — svi štokovi sem gipsanog ne
-  odgovaraju, na gips se ne kači ništa; teleskopski odbijen kao nesiguran)
-  ni door anchor.
-- **Za kupovinu:** door anchor (~500–1000 din) — otključava pravi lat pulldown
-  i face pull sa sidra. Do tada plan radi samo sa gumama.
-- **Pravi zgibovi:** razboj u parku vikendom (ujedno test progresije).
-- Stalak za zgibove: tema tek ako pulldown preraste ljubičasta+crna kombinaciju.
+- **4 loop gume 208cm** — žuta (5–15 lbs), crvena (15–35), crna (30–60),
+  ljubičasta (60–100). Kombinovanje guma za međukorake je OK.
+- **Door anchor** — nabavljen 28.7. Otključava lat pulldown, face pull,
+  triceps pushdown.
+- **Vratilo (pull-up bar)** — nabavljeno 29.7. Najveća promena do sada:
+  sopstvena težina je teža od svake gume, pa su zgibovi sada glavna vežba za
+  širinu. Park vikendom više nije potreban.
+- **Sledeći korak u opremi:** ranac sa knjigama za opterećene zgibove i
+  propadanja (kad se pređe 12 čistih ponavljanja). Košta nula dinara.
+- **Provera pre svakog treninga:** vratilo u štoku (opterećenje pravo nadole,
+  bez zamaha), gume na napukline, sidro na stranu vrata koja se otvara od tebe.
 
-## OVA NEDELJA (21–24.7) — skraćena, 4 treninga uto–pet, samo gume
+## Zašto je plan promenjen (29.7)
 
-Ponedeljak 20.7 preskočen. Prva nedelja je baseline — zapisivati brojeve.
+Stara A/B/C podela je bila tri različita upper dana, ali je svaki mišić i dalje
+dobijao jednu do jedne i po sesije nedeljno. Za početnika je **2× nedeljno po
+grupi** osetno bolje pri istom obimu. Odatle vuča/guranje podela.
 
-### UTORAK — Gornji A (širina)
+Odluka o nogama (29.7): Mihajlov cilj je izgled, a noge su niže na toj listi od
+ramena i leđa. Zadržan **jedan dan nogu**, skraćen na ~35 min. Razlog nije rast
+nogu nego to što se grupa koja padne na nulu teško vraća, dok je cena zadržavanja
+mala. Četvrti upper dan je odbačen — tri dana već pune koristan obim za leđa i
+ramena u deficitu, a plafon je podiglo vratilo, ne dodatni sati.
 
-| Vežba | Serije × pon. | Guma (start) |
+## Nedeljna struktura
+
+**Pon** Vuča A · **Uto** Guranje A · **Sre** Noge + core · **Čet** Vuča B ·
+**Pet** Guranje B + core. Vikend slobodan.
+
+### PONEDELJAK — Vuča A (širina)
+
+| Vežba | Serije × pon. | Opterećenje |
 |---|---|---|
-| Jednoručno povlačenje odozgo* | 4 × 10–12 po ruci | crvena |
-| Sklekovi | 4 × 8–15 | — |
-| Veslanje gumom u pretklonu | 5 × 12–15 | crna |
-| Lateralna podizanja (jednoručno, dijagonala) | 4 × 15–20 po ruci | žuta |
-| Razvlačenje gume (pull-apart)** | 3 × 15–20 | žuta |
-| Biceps gumom | 2 × 12–15 | crvena |
+| Zgibovi, širi pronirani hvat | 4 × do otkaza −1 | telesna; negativni 4 × 3–5 (spuštanje 5 s) ako čist ne izlazi |
+| Lat pulldown kroz sidro | 3 × 10–12 | crna + ljubičasta |
+| Veslanje gumom u pretklonu | 4 × 12–15 | crna |
+| Face pull sa sidra | 3 × 15–20 | žuta/crvena |
+| Lateralna podizanja | 4 × 15–20 po ruci | žuta |
+| Biceps gumom | 2 × 10–12 | crvena |
 
-\* Bez sidra: jedna ruka drži gumu ispruženа iznad glave, druga vuče kraj dole
-ka ramenu — lat radi vertikalno vučenje.
-\** Zamena za face pull dok nema sidra: guma ispruženim rukama ispred grudi,
-razvlači se u stranu do slova T, lopatice stisnuti.
+### UTORAK — Guranje A
 
-### SREDA — Noge
-
-| Vežba | Serije × pon. | Guma |
+| Vežba | Serije × pon. | Opterećenje |
 |---|---|---|
-| Bugarski čučnjevi | 4 × 10–12 po nozi | bez (kasnije crvena) |
-| Rumunsko mrtvo dizanje | 4 × 12–15 | ljubičasta (ili crna) |
+| Pike sklekovi, noge uzdignute | 4 × 8–12 | — |
+| Sklekovi sa uzdignutim nogama | 4 × 8–15 | — |
+| Potisak iznad glave gumom | 3 × 10–15 | crvena + žuta, kraći hvat |
+| Propadanja između dve stolice | 3 × 8–12 | telesna |
+| Lateralna podizanja | 3 × 15–20 | žuta |
+| Triceps pushdown sa sidra | 2 × 12–15 | žuta/crvena |
+
+### SREDA — Noge + core (~35 min)
+
+| Vežba | Serije × pon. | Opterećenje |
+|---|---|---|
+| Bugarski čučnjevi | 4 × 10–12 po nozi | crvena |
+| RDL na jednoj nozi | 3 × 10–12 po nozi | ljubičasta |
 | Iskoraci unazad | 3 × 12 po nozi | bez |
-| Glute bridge na jednoj nozi | 3 × 15 | — |
 | Plank | 3 × do otkaza | — |
+| Mrtva buba | 3 × 10 po strani | — |
 
-### ČETVRTAK — Gornji B (guranje)
+Jednonožni RDL je zamena za dvonožni: težina trupa pravi opterećenje u donjoj
+poziciji, gde guma ne radi ništa (guma je najteža na vrhu, a vežba dole).
 
-| Vežba | Serije × pon. | Guma |
+### ČETVRTAK — Vuča B (debljina)
+
+| Vežba | Serije × pon. | Opterećenje |
 |---|---|---|
+| Zgibovi supiniranim hvatom | 4 × do otkaza −1 | telesna |
+| Horizontalni zgibovi ispod šipke (pete na podu) | 4 × 10–12 | telesna |
+| Lat pulldown kroz sidro | 3 × 12–15 | crna |
+| Face pull sa sidra | 3 × 15–20 | žuta/crvena |
+| Lateralna podizanja | 4 × 15–20 | žuta |
+| Biceps gumom | 2 × 10–12 | crvena |
+
+### PETAK — Guranje B + core
+
+| Vežba | Serije × pon. | Opterećenje |
+|---|---|---|
+| Propadanja | 4 × 8–12 | telesna |
 | Pike sklekovi | 4 × 8–12 | — |
-| Sklekovi sa uzdignutim nogama | 4 × 8–12 | — |
-| Jednoručno povlačenje odozgo | 3 × 10–12 po ruci | crvena |
-| Potisak iznad glave (guma iza tela)* | 4 × 12–15 | crvena |
-| Razvlačenje gume | 3 × 15–20 | žuta |
-| Triceps gumom | 2 × 12–15 | žuta/crvena |
+| Sklekovi uskim hvatom | 3 × do otkaza | — |
+| Potisak iznad glave gumom | 3 × 12–15 | crvena + žuta |
+| Lateralna podizanja | 3 × 20 | žuta |
+| Bočni plank | 2 × 30–45 s po strani | — |
 
-\* Pre svakog treninga pregledati gumu (napukline = đubre), ne rastezati preko
-~2.5× dužine, patike obavezne. Ako nepoverenje ostane — izbaciti, pike sklekovi
-pokrivaju rame.
+Lateralna se ponavljaju **4× nedeljno namerno** — mala grupa, brz oporavak, a
+bočna glava ramena je ono što pravi širinu. Jedina vežba sa tom frekvencijom.
 
-### PETAK — Gornji C (obim) + kratak HIIT
+## Progresija — tri pravila
 
-| Vežba | Serije × pon. | Guma |
-|---|---|---|
-| Veslanje gumom | 4 × 15 | crna |
-| Sklekovi | 3 × do otkaza | — |
-| Lateralna podizanja | 4 × 20 po ruci | žuta |
-| Biceps + triceps | po 2 × 12–15 | crvena/žuta |
-| HIIT | 15–20 min | — |
-| Core: mrtva buba 3×10/strana + bočni plank 2×30–45s | | |
+Gume su na plafonu (Mihajlo je 28.7 prošao gornju granicu svake serije sa
+kombinacijom žuta+crvena+crna). Boja više nije alat, pa:
 
-## PUNA NEDELJA (od 27.7, kad stigne door anchor)
+1. **Zgibovi i propadanja:** preko 12 čistih ponavljanja → dodati težinu
+   (ranac sa knjigama). Ovo je glavna dugoročna linija napretka.
+2. **Sklekovi:** preko 15 ponavljanja → menjati polugu, ne dodavati ponavljanja
+   (više noge → arčer sklekovi).
+3. **Gume:** kraći hvat, šira stopala, viša tačka sidra. Pravilo: zadnja 2–3
+   ponavljanja svake serije moraju biti teška; ako prođe gornja granica u svakoj
+   seriji, sledeći put se skraćuje hvat i cilja donja granica opsega.
 
-Pon: Gornji A · Uto: Noge · Sre: HIIT 20–25 min + core (plank, mrtva buba,
-bočni plank) · Čet: Gornji B · Pet: Gornji C.
+**Šta se zapisuje u Helthy:** kod zgibova i propadanja broj **čistih**
+ponavljanja, kod guma **dužina hvata** (broj namotaja, razmak stopala). Boja
+sama ne znači ništa — ista kombinacija je trivijalna ili nemoguća zavisno od
+hvata. Bez ta dva broja nema progresije, samo osećaj.
 
-Izmene u odnosu na gore kad stigne sidro:
-- **Lat pulldown kroz sidro** (vrh vrata, kleknuti, vući ka grudima)
-  4 × 10–12, ljubičasta ili crna — prva vežba pon i čet, menja jednoručnu varijantu
-- **Face pull sa sidra** u visini lica 3 × 15–20 (žuta/crvena) — menja razvlačenje
-- Vikend: razboj u parku — zgibovi (negativni/asistirani žutom preko šipke)
+## Tenzija gume — pravilo
 
-## Mapa guma i progresija
+Cilj je da guma bude **blago zategnuta već u startnoj poziciji** i nikad
+potpuno labava ni u jednoj tački opsega. To je pod, ne cilj — težinu i dalje
+određuje pravilo o zadnja 2–3 ponavljanja.
 
-Startne tačke, ne kočnica — ako je predložena guma lagana, odmah teža/kombinacija.
-Pravilo: zadnja 2–3 ponavljanja svake serije moraju biti teška.
-
-Progresija: gornja granica opsega u svim serijama → kraći hvat iste gume →
-sledeća boja ili kombinacija (žuta+crvena, žuta+crna, crvena+crna...). Otpor se
-kontroliše dužinom: kraći hvat / šira stopala = teže.
+- Ne rastezati preko **~2,5× dužine** (gume su ~104 cm ravno → plafon ~260 cm).
+  Radna zona 1,5–2,5×. Preko toga se skupljaju mikropukotine.
+- „Blago" znači da je osetiš, ne da se boriš sa njom — pogotovo tamo gde start
+  pada u istegnutu poziciju (vrh lat pulldowna, dno RDL-a). Jaka pretenzija tu
+  ne daje stimulus, samo opterećuje rame i tetive u najslabijem uglu.
+- Ne važi za vežbe sa telesnom težinom (sklekovi, propadanja, zgibovi, čučnjevi,
+  core) — tamo je otpor težina i poluga.
 
 ## Kada se pravi novi plan — tri okidača (prvi koji nastupi)
 
-1. **6 nedelja** (oko 30.8) → revizija strukture i vežbi.
+1. **6 nedelja** (oko 13.9) → revizija strukture i vežbi.
 2. **2 nedelje bez ijednog napretka** ni na jednoj vežbi → analiza (san/hrana/plan).
-3. **Nova oprema** (door anchor, bučice...) → plan se odmah proširuje.
+3. **Nova oprema** → plan se odmah proširuje.
 
 Nedeljni pregled nedeljom uključuje proveru progresije treninga.
 
 ## Šta se namerno NE radi
 
-- Direktan trening stomaka radi "skidanja" — mast skida deficit; core minimalno,
-  zbog stabilnosti.
-- Korektivne rutine za držanje — 2:1 vučenje:guranje u planu to rešava; jedino
-  pravilo: na svakih sat sedenja 2 min ustajanja.
+- **Poseban HIIT dan** — izbačen 29.7. Stomak skida deficit i 155–165 g
+  proteina, ne kardio u sobi. Ako se hoće kondicija: 10 min na kraj petka.
+- Direktan trening stomaka radi „skidanja" — core minimalno, zbog stabilnosti.
+- Korektivne rutine za držanje — 2:1 vučenje:guranje to rešava; jedino pravilo:
+  na svakih sat sedenja 2 min ustajanja.
 - Više od 1 dana nogu nedeljno u ovoj fazi.
-- Vratilo u stanu, u bilo kom obliku — odluka doneta 20.7, ne otvara se ponovo
-  bez promene stana/zida.
+- Četvrti upper dan — vidi obrazloženje gore.
 
-## Pravilo iz ispitnog perioda (i dalje važi)
+## Pravilo za dane koji ne stanu
 
-Kad dan ne stane: trening se **skraćuje, ne preskače**. Jutarnji OI blok se ne
-dira. Ako 5× nedeljno otima učenju, nedeljni pregled vraća na 3–4×.
+Trening se **skraćuje, ne preskače** — streak je važniji od dužine sesije.
+Jutarnji OI blok se ne dira (ispiti ostaju prioritet 1 u
+[`../Memorija/memorija.md`](../Memorija/memorija.md), iako sam plan treninga
+nije pravljen oko njih).
+
+Ako se propusti trening: **ne nadoknađuje se duplim danom.** Propuštena grupa se
+pomera na sledeći slobodan dan ako je moguće, inače ispada ta nedelja.
