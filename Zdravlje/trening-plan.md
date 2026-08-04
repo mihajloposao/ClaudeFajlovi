@@ -1,6 +1,6 @@
-# Trening plan — od 3.8.2026.
+# Trening plan — od 3.8.2026. (4 dana, vuča/guranje)
 
-**Poslednje ažuriranje:** 29.07.2026.
+**Poslednje ažuriranje:** 05.08.2026.
 **Cilj:** rekompozicija — izgradnja mišića (prioritet: ramena/leđa → V-oblik)
 uz topljenje stomaka kroz deficit. Ishrana u
 [`ciljevi-i-navike.md`](ciljevi-i-navike.md).
@@ -26,21 +26,39 @@ dobijao jednu do jedne i po sesije nedeljno. Za početnika je **2× nedeljno po
 grupi** osetno bolje pri istom obimu. Odatle vuča/guranje podela.
 
 Odluka o nogama (29.7): Mihajlov cilj je izgled, a noge su niže na toj listi od
-ramena i leđa. Zadržan **jedan dan nogu**, skraćen na ~35 min. Razlog nije rast
-nogu nego to što se grupa koja padne na nulu teško vraća, dok je cena zadržavanja
-mala. Četvrti upper dan je odbačen — tri dana već pune koristan obim za leđa i
-ramena u deficitu, a plafon je podiglo vratilo, ne dodatni sati.
+ramena i leđa. Tada je zadržan jedan skraćen dan nogu. Četvrti upper dan je
+odbačen — tri dana već pune koristan obim za leđa i ramena u deficitu, a plafon
+je podiglo vratilo, ne dodatni sati. To i dalje važi.
+
+## Noge izbačene (6.8) — privremeno
+
+Dan nogu je otpao tri puta zaredom (29.7, 31.7, 5.8), dok nijedan gornji trening
+nije preskočen. Mihajlova procena: radi ih preko volje i to mu pije motivaciju, a
+bolje mu je da prvo uhvati ritam sa treninzima koje stvarno želi da radi.
+
+**To je prihvaćeno kao ispravna odluka za sada** — ne zato što noge nisu vredne,
+nego zato što je konzistentnost preduslov za sve ostalo, a plan koji svake nedelje
+ima jedan dan koji ispari je plan od kog se ne može meriti napredak. Bolje pošten
+plan od 4 dana koji se izvršava 100%, nego plan od 5 koji se izvršava 80% na
+istom mestu.
+
+**Vraćanje na sto:** revizija 13.9, ili ranije ako prođu **3 pune nedelje bez
+ijednog propuštenog treninga** — tada se dodaje dan nogu, jer je ritam uhvaćen i
+to je bio ceo uslov. Do tada se tema ne otvara.
 
 ## Nedeljna struktura
 
-**Pon** Vuča A · **Uto** Guranje A · **Sre** Noge + core · **Čet** Vuča B ·
-**Pet** Guranje B + core. Vikend slobodan.
+**Pon** Vuča A · **Uto** Guranje A · **Sre** slobodno · **Čet** Vuča B ·
+**Pet** Guranje B + core. Vikend slobodan (Mihajlo vikendom uči, ne trenira).
+
+Sreda je namerno slobodna u sredini nedelje — pauza između dva vučenja i dva
+guranja, ne rupa koju treba popuniti.
 
 ### PONEDELJAK — Vuča A (širina)
 
 | Vežba | Serije × pon. | Opterećenje |
 |---|---|---|
-| Zgibovi, širi pronirani hvat | 4 × do otkaza −1 | telesna; negativni 4 × 3–5 (spuštanje 5 s) ako čist ne izlazi |
+| Zgibovi, širi pronirani hvat | 3 × do otkaza + 2 × 3 negativna | telesna; pauza 2–3 min; negativni = spuštanje 5 s iz gornje pozicije |
 | Lat pulldown kroz sidro | 3 × 10–12 | crna + ljubičasta |
 | Veslanje gumom u pretklonu | 4 × 12–15 | crna |
 | Face pull sa sidra | 3 × 15–20 | žuta/crvena |
@@ -58,16 +76,11 @@ ramena u deficitu, a plafon je podiglo vratilo, ne dodatni sati.
 | Lateralna podizanja | 3 × 15–20 | žuta |
 | Triceps pushdown sa sidra | 2 × 12–15 | žuta/crvena |
 
-### SREDA — Noge + core (~35 min)
+### SREDA — slobodno
 
-| Vežba | Serije × pon. | Opterećenje |
-|---|---|---|
-| Bugarski čučnjevi | 4 × 10–12 po nozi | crvena |
-| RDL na jednoj nozi | 3 × 10–12 po nozi | ljubičasta |
-| Iskoraci unazad | 3 × 12 po nozi | bez |
-| Plank | 3 × do otkaza | — |
-| Mrtva buba | 3 × 10 po strani | — |
-
+Vidi „Noge izbačene (6.8)" gore. Ako se dan nogu ikad vrati, šema je bila:
+bugarski čučnjevi 4 × 10–12 (crvena), jednonožni RDL 3 × 10–12 (ljubičasta),
+iskoraci unazad 3 × 12, plank 3 × do otkaza, mrtva buba 3 × 10 po strani.
 Jednonožni RDL je zamena za dvonožni: težina trupa pravi opterećenje u donjoj
 poziciji, gde guma ne radi ništa (guma je najteža na vrhu, a vežba dole).
 
@@ -93,8 +106,8 @@ poziciji, gde guma ne radi ništa (guma je najteža na vrhu, a vežba dole).
 | Lateralna podizanja | 3 × 20 | žuta |
 | Bočni plank | 2 × 30–45 s po strani | — |
 
-Lateralna se ponavljaju **4× nedeljno namerno** — mala grupa, brz oporavak, a
-bočna glava ramena je ono što pravi širinu. Jedina vežba sa tom frekvencijom.
+Lateralna se ponavljaju **u sva 4 treninga namerno** — mala grupa, brz oporavak,
+a bočna glava ramena je ono što pravi širinu. Jedina vežba sa tom frekvencijom.
 
 ## Progresija — tri pravila
 
@@ -108,6 +121,16 @@ kombinacijom žuta+crvena+crna). Boja više nije alat, pa:
 3. **Gume:** kraći hvat, šira stopala, viša tačka sidra. Pravilo: zadnja 2–3
    ponavljanja svake serije moraju biti teška; ako prođe gornja granica u svakoj
    seriji, sledeći put se skraćuje hvat i cilja donja granica opsega.
+
+**Trenutno stanje (5.8):** zgibovi maks **5** u prvoj seriji (5-5-4 + negativni).
+Prati se broj u **prvoj** seriji — ostale zavise od umora i pauze. Kad maks dođe
+do 8, negativni ispadaju i vraćaju se 4 normalne serije. Prelako i traži kraći
+hvat: potisak iznad glave, triceps, lat pulldown. Pogođeno tačno: lateralna,
+face pull, veslanje, sklekovi sa uzdignutim nogama.
+
+**Serija se završava kad forma popusti, ne kad brojka stane.** Kod pike sklekova
+to znači da se kukovi spuste (vežba pređe u običan sklek), teme ne ide do poda,
+ili glava ide napred umesto dole. Kod zgibova: čim treba zamah, serija je gotova.
 
 **Šta se zapisuje u Helthy:** kod zgibova i propadanja broj **čistih**
 ponavljanja, kod guma **dužina hvata** (broj namotaja, razmak stopala). Boja
@@ -143,8 +166,9 @@ Nedeljni pregled nedeljom uključuje proveru progresije treninga.
 - Direktan trening stomaka radi „skidanja" — core minimalno, zbog stabilnosti.
 - Korektivne rutine za držanje — 2:1 vučenje:guranje to rešava; jedino pravilo:
   na svakih sat sedenja 2 min ustajanja.
-- Više od 1 dana nogu nedeljno u ovoj fazi.
-- Četvrti upper dan — vidi obrazloženje gore.
+- **Noge** — izbačene 6.8, vidi obrazloženje gore. Vraćanje na sto 13.9 ili posle
+  3 pune nedelje bez propuštenog treninga.
+- Četvrti upper dan preko postojeća četiri — vidi obrazloženje gore.
 
 ## Pravilo za dane koji ne stanu
 
@@ -153,5 +177,6 @@ Jutarnji OI blok se ne dira (ispiti ostaju prioritet 1 u
 [`../Memorija/memorija.md`](../Memorija/memorija.md), iako sam plan treninga
 nije pravljen oko njih).
 
-Ako se propusti trening: **ne nadoknađuje se duplim danom.** Propuštena grupa se
-pomera na sledeći slobodan dan ako je moguće, inače ispada ta nedelja.
+Ako se propusti trening: **ne nadoknađuje se duplim danom.** Sreda je slobodan
+dan i može primiti propušteni pon/uto trening; ako ni to ne prođe, grupa ispada
+tu nedelju.

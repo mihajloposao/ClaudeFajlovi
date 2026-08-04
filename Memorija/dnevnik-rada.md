@@ -3,6 +3,42 @@
 Hronologija sesija sa Claude-om: šta je urađeno, šta je odlučeno, šta ostaje.
 Novi unosi idu **na vrh**. Kratko — detalji žive u fajlovima projekata.
 
+## 05.08.2026 (utorak) — Trening: prva nedelja novog plana, noge izbačene
+
+**Odrađeni treninzi**
+- **30.7 (čet) Gornji B:** zgibovi maks **4** (celim telom, pun opseg — ispravno).
+  Sklekovi prelaki, potisak improvizovan jer je guma prekratka (nagazio jednom
+  nogom spreda), face pull težak ali izvodljiv, triceps prelak.
+- **3.8 (pon) Vuča A:** zgibovi **5-5-4** + negativni. **Prvi merljiv napredak** —
+  peto ponavljanje izašlo. Lat pulldown (crna+ljubičasta) prošao gornju granicu →
+  guma i preko sidra dolazi prekratko rastegnuta, treba klečati dalje od vrata.
+  Lateralna i veslanje najteži, ali zato što dolaze na iscrpljena leđa/ramena.
+- **4.8 (uto) Guranje A:** uglavnom gornja granica. Sklekovi sa uzdignutim nogama
+  **konačno teški** (korekcija poluge pogodila) — ostaju dok se ne pređe 15.
+  Lateralna sa pauzom usred serije = tačno pogođeno. Potisak i triceps i dalje
+  prelaki, treći put zaredom → kraći hvat.
+  Kod pike sklekova nesiguran u formu kad postane teško → pravilo: **serija se
+  završava kad forma popusti, ne kad brojka stane**; predloženo da snimi seriju
+  telefonom.
+- **5.8 (sre) noge — propušteno.** Dan odmora koji je hteo da produži uveče.
+  Dogovor: produžava veče ali ustaje na vreme, tako da jutarnji OI blok ostaje
+  netaknut. To je prioritet iznad treninga.
+
+**Noge izbačene iz plana (odluka 6.8)**
+- Otpale tri puta zaredom (29.7, 31.7, 5.8), dok nijedan gornji trening nije
+  preskočen. Mihajlo: radi ih preko volje, to mu pije motivaciju, i procenjuje da
+  je bolje prvo uhvatiti ritam.
+- **Prihvaćeno.** Obrazloženje u planu: pošten plan od 4 dana koji se izvršava
+  100% je bolji od plana od 5 koji svake nedelje ima dan koji ispari — jer se od
+  ovog drugog ne može meriti napredak.
+- Razmatrano premeštanje na subotu, odbačeno — **Mihajlo vikendom uči, ne
+  trenira.** (Zapamtiti, već je jednom rečeno.)
+- **Vraćanje na sto:** revizija 13.9, ili ranije ako prođu 3 pune nedelje bez
+  ijednog propuštenog treninga. Do tada se tema ne otvara.
+
+**Nova struktura:** pon Vuča A · uto Guranje A · **sre slobodno** · čet Vuča B ·
+pet Guranje B + core.
+
 ## 29.07.2026 (sreda) — Trening: nova oprema i nova struktura
 
 - **Prvi trening odrađen 28.7** (Gornji A). Baseline: sve vežbe sa kombinacijom
