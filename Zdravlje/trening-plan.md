@@ -1,6 +1,6 @@
 # Trening plan — od 3.8.2026. (4 dana, vuča/guranje)
 
-**Poslednje ažuriranje:** 05.08.2026.
+**Poslednje ažuriranje:** 04.08.2026.
 **Cilj:** rekompozicija — izgradnja mišića (prioritet: ramena/leđa → V-oblik)
 uz topljenje stomaka kroz deficit. Ishrana u
 [`ciljevi-i-navike.md`](ciljevi-i-navike.md).
@@ -30,9 +30,9 @@ ramena i leđa. Tada je zadržan jedan skraćen dan nogu. Četvrti upper dan je
 odbačen — tri dana već pune koristan obim za leđa i ramena u deficitu, a plafon
 je podiglo vratilo, ne dodatni sati. To i dalje važi.
 
-## Noge izbačene (6.8) — privremeno
+## Noge izbačene (4.8) — privremeno
 
-Dan nogu je otpao tri puta zaredom (29.7, 31.7, 5.8), dok nijedan gornji trening
+Dan nogu je otpao dva puta (29.7, 31.7), a treći put (sreda 5.8) unapred otpisan, dok nijedan gornji trening
 nije preskočen. Mihajlova procena: radi ih preko volje i to mu pije motivaciju, a
 bolje mu je da prvo uhvati ritam sa treninzima koje stvarno želi da radi.
 
@@ -78,7 +78,7 @@ guranja, ne rupa koju treba popuniti.
 
 ### SREDA — slobodno
 
-Vidi „Noge izbačene (6.8)" gore. Ako se dan nogu ikad vrati, šema je bila:
+Vidi „Noge izbačene (4.8)" gore. Ako se dan nogu ikad vrati, šema je bila:
 bugarski čučnjevi 4 × 10–12 (crvena), jednonožni RDL 3 × 10–12 (ljubičasta),
 iskoraci unazad 3 × 12, plank 3 × do otkaza, mrtva buba 3 × 10 po strani.
 Jednonožni RDL je zamena za dvonožni: težina trupa pravi opterećenje u donjoj
@@ -122,7 +122,7 @@ kombinacijom žuta+crvena+crna). Boja više nije alat, pa:
    ponavljanja svake serije moraju biti teška; ako prođe gornja granica u svakoj
    seriji, sledeći put se skraćuje hvat i cilja donja granica opsega.
 
-**Trenutno stanje (5.8):** zgibovi maks **5** u prvoj seriji (5-5-4 + negativni).
+**Trenutno stanje (4.8):** zgibovi maks **5** u prvoj seriji (5-5-4 + negativni).
 Prati se broj u **prvoj** seriji — ostale zavise od umora i pauze. Kad maks dođe
 do 8, negativni ispadaju i vraćaju se 4 normalne serije. Prelako i traži kraći
 hvat: potisak iznad glave, triceps, lat pulldown. Pogođeno tačno: lateralna,
@@ -166,7 +166,7 @@ Nedeljni pregled nedeljom uključuje proveru progresije treninga.
 - Direktan trening stomaka radi „skidanja" — core minimalno, zbog stabilnosti.
 - Korektivne rutine za držanje — 2:1 vučenje:guranje to rešava; jedino pravilo:
   na svakih sat sedenja 2 min ustajanja.
-- **Noge** — izbačene 6.8, vidi obrazloženje gore. Vraćanje na sto 13.9 ili posle
+- **Noge** — izbačene 4.8, vidi obrazloženje gore. Vraćanje na sto 13.9 ili posle
   3 pune nedelje bez propuštenog treninga.
 - Četvrti upper dan preko postojeća četiri — vidi obrazloženje gore.
 

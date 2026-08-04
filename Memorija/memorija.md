@@ -3,7 +3,7 @@
 Glavni fajl konteksta. Ovde je srž; detalji su u fajlovima na koje se linkuje.
 Ažurira se na kraju svake sadržajne sesije (skill `radni-kontekst`).
 
-**Poslednje ažuriranje:** 05.08.2026.
+**Poslednje ažuriranje:** 04.08.2026.
 
 ## Ko sam (ukratko)
 
@@ -33,11 +33,11 @@ Detaljno: [`profil.md`](profil.md) · [`stil-komunikacije.md`](stil-komunikacije
   [`../Planovi/Faks/ritam-ucenja.md`](../Planovi/Faks/ritam-ucenja.md)
 - **Datumi ispita:** [`../Planovi/Faks/ispiti-rokovi.md`](../Planovi/Faks/ispiti-rokovi.md)
   Prvi rok počinje **26.8**, drugi **9.9**.
-- **Sekundarni cilj (revidirano 5.8):** rekompozicija — mišić + topljenje
+- **Sekundarni cilj (revidirano 4.8):** rekompozicija — mišić + topljenje
   stomaka, ne samo kilaža. **Streak treninga počeo 28.7.** Nabavljeni door
   anchor (28.7) i **vratilo** (29.7) — zgibovi su sada glavna vežba za širinu,
   gume su na plafonu i progresija ide kroz dužinu hvata. Ključni broj: **maks
-  zgibova u prvoj seriji, trenutno 5.** Plan je 5.8 skraćen na **4 dana
+  zgibova u prvoj seriji, trenutno 5.** Plan je 4.8 skraćen na **4 dana
   (vuča/guranje, sreda slobodna)** — dan nogu izbačen dok se ne uhvati ritam,
   vraća se 13.9 ili posle 3 pune nedelje bez propuštenog treninga. Plan u
   [`../Zdravlje/trening-plan.md`](../Zdravlje/trening-plan.md); ishrana i limiti u

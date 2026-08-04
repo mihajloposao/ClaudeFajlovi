@@ -3,7 +3,7 @@
 Hronologija sesija sa Claude-om: šta je urađeno, šta je odlučeno, šta ostaje.
 Novi unosi idu **na vrh**. Kratko — detalji žive u fajlovima projekata.
 
-## 05.08.2026 (utorak) — Trening: prva nedelja novog plana, noge izbačene
+## 04.08.2026 (utorak) — Trening: prva nedelja novog plana, noge izbačene
 
 **Odrađeni treninzi**
 - **30.7 (čet) Gornji B:** zgibovi maks **4** (celim telom, pun opseg — ispravno).
@@ -20,13 +20,13 @@ Novi unosi idu **na vrh**. Kratko — detalji žive u fajlovima projekata.
   Kod pike sklekova nesiguran u formu kad postane teško → pravilo: **serija se
   završava kad forma popusti, ne kad brojka stane**; predloženo da snimi seriju
   telefonom.
-- **5.8 (sre) noge — propušteno.** Dan odmora koji je hteo da produži uveče.
+- **5.8 (sre) noge — unapred otpisano.** Dan odmora koji je hteo da produži uveče.
   Dogovor: produžava veče ali ustaje na vreme, tako da jutarnji OI blok ostaje
   netaknut. To je prioritet iznad treninga.
 
-**Noge izbačene iz plana (odluka 6.8)**
-- Otpale tri puta zaredom (29.7, 31.7, 5.8), dok nijedan gornji trening nije
-  preskočen. Mihajlo: radi ih preko volje, to mu pije motivaciju, i procenjuje da
+**Noge izbačene iz plana (odluka 4.8)**
+- Otpale dva puta (29.7, 31.7) + treći unapred otpisan (5.8), dok nijedan gornji
+  trening nije preskočen. Mihajlo: radi ih preko volje, to mu pije motivaciju, i procenjuje da
   je bolje prvo uhvatiti ritam.
 - **Prihvaćeno.** Obrazloženje u planu: pošten plan od 4 dana koji se izvršava
   100% je bolji od plana od 5 koji svake nedelje ima dan koji ispari — jer se od
