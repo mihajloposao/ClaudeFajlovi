@@ -24,6 +24,13 @@ negativno — može da prođe, pa i da bude odličan, ako je izvršenje
 (produkcija, intenzitet) dovoljno jako (vidi *Stranger Things* S4). Bez jakog
 izvršenja, ostaje čista mana (vidi *Legends*).
 
+### Lik sa „aurom"
+
+Nosivi lik koji ima težinu i prisustvo na ekranu — gleda se zbog njega samog,
+ne samo zbog onoga što radi. Majkl iz *This City Is Ours* je etalon. Odsustvo
+takvog lika je konkretna zamerka, čak i kad je sve ostalo u redu (*Kin*).
+Povezano sa postupnim građenjem lika: aura se gradi vremenom, ne deklariše.
+
 ## Obrasci u ukusu (iz dosadašnjih unosa)
 
 - **Realizam > imaginarno/nerealno rešenje.** Smeta mu kad se twist/misterija
@@ -47,3 +54,14 @@ izvršenja, ostaje čista mana (vidi *Legends*).
   horor) ne ostavlja "težak osećaj" (*This City Is Ours*, *From*).
 - **Namerno dobar humor je veliki plus** (*Slow Horses*); kad ton luta
   između drame i komedije bez jasnoće, to je minus (*Legends*).
+- **Gluma je prag, ne bonus.** Neuverljiva gluma sama po sebi obara ocenu čak
+  i kad priča i ton rade (*Kin* — inače bi bio više od 7.5).
+- **Postupno građenje lika je zaseban zahtev.** Nije dovoljno da likovi budu
+  neizvesni — mora se videti kako se grade kroz vreme (*Kin* zamerka;
+  *Stranger Things* S3 pohvala za Bilija).
+- **Setting Britanskih ostrva radi šire nego samo UK.** Irski Dablin (*Kin*)
+  doživeo je kao „UK svet i tu kulturu" i to mu je bio plus — pri preporukama
+  ne ograničavati se strogo na britansku produkciju.
+- **Referentna tačka za sve kriminalne drame je *This City Is Ours*.** Ostale
+  serije u žanru procenjuje kao „zamenu" za nju (*Kin*: dobra zamena, ali
+  dosta slabija).

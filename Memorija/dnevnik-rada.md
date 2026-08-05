@@ -3,6 +3,24 @@
 Hronologija sesija sa Claude-om: šta je urađeno, šta je odlučeno, šta ostaje.
 Novi unosi idu **na vrh**. Kratko — detalji žive u fajlovima projekata.
 
+## 05.08.2026 (sreda) — Slobodno vreme: log filmova i serija
+
+- **Nov folder `Slobodno vreme/`** — [`Filmovi i serije.md`](../Slobodno%20vreme/Filmovi%20i%20serije.md)
+  (log utisaka, novi unosi na vrh) i [`Ukus i pojmovi.md`](../Slobodno%20vreme/Ukus%20i%20pojmovi.md)
+  (Mihajlovi termini + obrasci ukusa izvučeni iz loga).
+- **Workflow:** kad Mihajlo pomene naslov, Claude pita o iskustvu (ocena,
+  utisak, šta jeste/nije radilo, poređenje) i upisuje unos; pojmovi i obrasci
+  se usput ažuriraju u drugom fajlu.
+- **Upisano do sada:** This City Is Ours (10 — referentna tačka), Slow Horses
+  (8.5–9), From (7–8.5), Kin (7.5), Stranger Things (7.5–8.5, jako varira po
+  sezoni), Legends (4).
+- **Definisani pojmovi:** *produženi film* (serija koja višak vremena puni
+  akcijom umesto razvojem likova — nije fatalno ako je izvršenje jako) i
+  *lik sa „aurom"* (Majkl iz TCIO kao etalon).
+- **Preporuke date na osnovu loga:** Top Boy, Kin, Line of Duty. Odgledao
+  **Kin** (7.5) — potvrdio da mu radi, ali slabija gluma i nedostatak lika sa
+  aurom su ga zadržali ispod TCIO.
+
 ## 04.08.2026 (utorak) — Trening: prva nedelja novog plana, noge izbačene
 
 **Odrađeni treninzi**

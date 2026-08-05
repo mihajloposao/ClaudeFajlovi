@@ -29,6 +29,25 @@ ponavljaju kroz više unosa. Ažurira se usput, ne mora svaki put.
 
 ## Unosi
 
+### Kin (serija) — 05.08.2026.
+
+- **Ocena:** 7.5/10 (do 8.5 ako je baš raspoložen)
+- **Utisak:** Zadovoljava sve njegove kriterijume, ali na osnovnom nivou.
+  Priča ga je sigurno kupila da odgleda i treću sezonu kad izađe. Druga
+  sezona dosta bolja od prve.
+- **Svidelo se:** U drugoj sezoni najviše neizvesnost u kom smeru će se likovi
+  graditi i koje odluke će doneti. Iako je kriminalni svet, nije previše
+  mračno — taman umereno; doživeo ga je kao „UK svet i tu kulturu" (serija je
+  zapravo irska, Dablin — vredi znati da mu i irski setting radi isto kao
+  britanski).
+- **Nije se svidelo:** Gluma jako neuverljiva sem par solidnih likova. Nema
+  postupnog građenja likova. Nema nijednog pravog lika sa dosta „aure".
+  Dubina likova je mogla mnogo bolje.
+- **Žanr/vajb:** Kriminalna porodična drama, umereno mračna, irski/UK setting.
+- **Poređenje:** [`This City Is Ours`](#this-city-is-ours-serija--24072026) mu
+  je i dalje dosta bolji, ali Kin na dosta načina podseća na njega i nije loša
+  zamena — pogotovu druga sezona.
+
 ### Stranger Things (serija) — 24.07.2026.
 
 - **Ocena:** ukupno 7.5–8.5, ali jako varira po sezoni:
