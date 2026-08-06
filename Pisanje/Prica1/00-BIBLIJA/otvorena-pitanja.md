@@ -37,17 +37,18 @@
 **Za istrazivanje kad se bude pisalo:** radikalno prihvatanje (psihologija) i Frankl —
 "ne biras sta ti se desava, biras stav prema tome". Za autenticnost lika koji prolazi kroz to.
 
-## Realnost i objasnjenost
+## Realnost
 
 | # | Pitanje | Status | Napomena |
 |---|---|---|---|
-| R1 | Da li citalac na kraju knjige saznaje istinu o zverima, i ako da — kroz koji kanal? | otvoreno | Mihajlo trazi da nema nejasnoca. Ali likovi su obicni ljudi bez pristupa istini. Opcije: (a) citalac saznaje koliko i likovi, doslednost nosi ostatak; (b) postoji kanal informacije koji se mora osmisliti tako da ne rusi perspektivu; (c) istina se cuva za sledeci deo (vezano za F2). |
-| R2 | Koliko nemogucih stvari se dozvoljava osim zveri? | otvoreno | PR2 kaze: sto manje. Svaka nova nemoguca stvar se placa poverenjem citaoca. |
+| R1 | Da li citalac ikad saznaje istinu o zverima, i ako da — kroz koji kanal? | otvoreno, nije hitno | **Ispravka 06.08.2026:** ovo NIJE posledica Mihajlovog zahteva za jasnocom — on je trazio sledljivost znanja likova (PR3), ne objasnjen svet. Obicno pitanje price. Vezano za F2 i S4. |
+| R2 | Koliko nemogucih stvari se dozvoljava osim zveri? | otvoreno | PR2: sto manje. Svaka nova nemoguca stvar se placa poverenjem citaoca. |
+| R3 | Kako informacija putuje u razrusenom gradu? | otvoreno | Iz PR3: vest ima lanac snabdevanja i moze biti zatrovana. Ko su izvori, koliko su pouzdani, sta se placa za informaciju. Bogat izvor scena. |
 
 ## Svet i zveri
 
-> **Ove odgovore treba popuniti DO KRAJA** (PR3), cak i ono sto se nikad nece izgovoriti
-> u knjizi. Biblija zna sve; knjiga pokazuje samo ono do cega likovi mogu doci.
+> Ove odgovore vredi popuniti i preko onoga sto ce se videti u knjizi — doslednost se oseti
+> u sceni i kad se ne objasnjava. Ali to NIJE Mihajlov zahtev, nego radna preporuka.
 
 | # | Pitanje | Status | Napomena |
 |---|---|---|---|

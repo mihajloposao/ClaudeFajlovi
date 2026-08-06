@@ -43,11 +43,14 @@ Novi unosi idu **na vrh**. Kratko — detalji žive u fajlovima projekata.
 - **PR2 — maksimalna realnost svega osim zveri.** Ograničen broj nemogućih stvari, sve ostalo
   se pokorava stvarnom svetu. Realnost živi u posledicama (voda pre hrane, infekcije, municija,
   dim danima, neispavanost, zima), ne u objašnjenju čudovišta.
-- **PR3 — biblija zna sve, knjiga pokazuje koliko likovi mogu da saznaju.** Mihajlo traži da
-  čitalac na kraju nema nejasnoća. Razlika koja to omogućava bez rušenja perspektive:
-  **nema rupa ≠ nema nepoznanica.** Rupa (protivrečnost, nemotivisan lik, rešenje bez najave)
-  se ne oprašta; nepoznanica koju ni likovi ne znaju se oprašta — ali samo ako čitalac oseća
-  da pisac zna. Zato se `svet.md` popunjava do kraja, i ono što se nikad neće izgovoriti.
+- **PR3 — sledljivost znanja.** *(Prvo sam ovo pogrešno zapisao kao „sve mora biti objašnjeno";
+  Mihajlo je precizirao.)* Zahtev nije da čitalac sazna sve, nego **da bude jasno šta likovi
+  znaju i kako to znaju** — da ima smisla kako do nečega dolaze i kako nešto reše.
+  Svako znanje mora imati izvor na stranici: video je, neko mu je rekao (jasno ko i zašto bi
+  mu verovao), zaključio iz postavljenog, ili nagađa i zna da nagađa. Isto važi za veštine i
+  rešenja — ništa se ne pojavi tačno kad zatreba. **Likovi smeju da budu u krivu** — pravilo
+  traži sledljivost, ne tačnost; to je čak poželjno. Posledica: informacija je resurs sa
+  lancem snabdevanja i može biti zatrovana.
 - **PR4 — ništa nije zakon priče bez Mihajlove potvrde.**
 - **JI1 (jaka ideja, nije odluka):** nekome prihvatanje ne pomogne — prođe ceo put, stigne do
   mira, i svejedno pogine od nečeg banalnog. Bez toga knjiga tvrdi da prihvatanje štiti.
@@ -56,8 +59,9 @@ Novi unosi idu **na vrh**. Kratko — detalji žive u fajlovima projekata.
 - **K2 — kraj i osećaj koji ostavlja.** Sad se može napadati jer je jezgro tu.
 - P1 (kako izgleda prelaz u odnosu prema starim mukama), P3 (ko nosi kontra-tezu),
   P4 (šta košta prihvatanje), P5 (nalazi li se civilizacija iza brda).
-- **Novo: R1** — da li čitalac na kraju saznaje istinu o zverima i kroz koji kanal, kad likovi
-  nemaju pristup toj istini. **R2** — koliko nemogućih stvari se dozvoljava osim zveri.
+- **R1** — da li čitalac ikad saznaje istinu o zverima (nije hitno, obično pitanje priče).
+  **R2** — koliko nemogućih stvari se dozvoljava osim zveri. **R3** — kako informacija putuje
+  u razrušenom gradu, ko su izvori i koliko su pouzdani.
 - Poreklo i priroda zveri, da li iko ima kontrolu, **postoji li sila koja može pomoći**,
   **može li se rat uopšte dobiti**, zašto vojska odvodi radno sposobne, obuhvat sveta,
   da li je ovo samostalna knjiga ili prvi deo.

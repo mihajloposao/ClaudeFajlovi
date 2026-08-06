@@ -42,26 +42,44 @@ Realnost ove knjige ne zivi u objasnjenju cudovista nego u **posledicama**:
 
 ---
 
-## PR3 — Biblija zna sve, knjiga pokazuje samo ono do cega likovi mogu doci
-**Predlog Claude-a 06.08.2026, prihvacen kao radno pravilo — potvrdu za obuhvat vidi u
-`otvorena-pitanja.md` (S1-S8, novo pitanje R1).**
+## PR3 — Sledljivost znanja: sve sto likovi znaju ima izvor koji je citalac video
+**Potvrdjeno 06.08.2026 (Mihajlo), precizirano istog dana.**
 
-Mihajlov zahtev je da prosecan citalac na kraju nema dileme, nedoumice i nejasnoce.
-Nacin da se to postigne bez rusenja perspektive:
+> Mihajlova formulacija: *"nisam mislio da citalac sazna sve, vec da bude jasno ono sto
+> likovi znaju i kako to znaju"* — i da ima smisla kako dolaze do stvari, kako nesto rese,
+> kakve odgovore dobiju.
 
-- **Nema rupa.** Prica se nikad ne protivreci sebi, nijedan lik se ne ponasa nemotivisano,
-  nijedan problem se ne resava necim sto nije bilo najavljeno. Ovo je apsolutno.
-- **Nepoznanice su dozvoljene** — ali samo one koje su nepoznanice i za likove.
-- **Uslov:** citalac mora osecati da **pisac zna**. To se postize doslednoscu svega ostalog,
-  ne objasnjavanjem. Citaocu se oprasta misterija; ne oprasta mu se osecaj da autor nije ni
-  sam smislio odgovor.
+**Pravilo:** nijedan lik ne sme znati, umeti ili resiti nesto cije poreklo citalac nije video.
+Svako znanje mora imati jedan od cetiri izvora, i on mora biti na stranici:
 
-Zato se `svet.md` popunjava **do kraja**, ukljucujuci i ono sto se nikad nece izgovoriti na
-stranici. Doslednost se oseti u svakoj sceni iako se ne objasnjava.
+1. **Video je / doziveo** — bio je prisutan.
+2. **Neko mu je rekao** — i jasno je ko, kada i zasto bi mu verovao.
+3. **Zakljucio je** iz necega sto je vec postavljeno.
+4. **Nagadja** — i jasno je da nagadja, i on to zna.
 
-*Razlog za oprez:* protagonisti su obicni ljudi koji se kriju dok grad gori — nemaju pristup
-istini o poreklu zveri. Ako knjiga svejedno sve objasni, mora se ili probiti njihova
-perspektiva ili podmetnuti lik koji sve zna, a to rusi temelj teme (obicni ljudi).
+**Isto vazi za vestine i resenja:**
+- Ako neko ume da upali auto bez kljuca, sasije ranu ili vozi kamion — to se ustanovi
+  **pre** nego sto zatreba, i to usput, ne kao najava.
+- Ako se iz necega izvuku, izvuku se necim sto je vec bilo u sceni ili u prici.
+- Nema "odjednom se setio". Nema vestine koja se pojavi tacno kad je potrebna.
+
+**Likovi SMEJU da budu u krivu — i to je pozeljno.**
+Glasina, laz, pogresan zakljucak, pogresno protumaceno svedocenje. Pravilo ne trazi
+tacnost nego **sledljivost**. Kad se kasnije ispostavi da nisu bili u pravu, citalac se seti
+tacno gde je informacija usla — i to ga ne izbaci iz price nego pogodi.
+
+**Informacija je resurs kao voda.**
+U razrusenom gradu vest ima lanac snabdevanja i moze biti zatrovana. "Ko ti je to rekao i
+zasto bismo mu verovali" je scena koja se moze igrati vise puta i svaki put drugacije zavrsiti.
+
+**Sta ovo pravilo NE trazi:**
+- Ne trazi da se objasni poreklo zveri ni bilo sta cemu likovi nemaju pristup.
+- Ne trazi da citalac sazna sve. Trazi da **nema rupa**: da se prica ne protivreci sebi,
+  da se nijedan lik ne ponasa nemotivisano, i da se nijedan problem ne resi necim sto se
+  nije ranije pojavilo.
+
+**Provera pri pisanju svake scene:** za svaku stvar koju lik zna ili ume — mogu li da
+pokazem prstom na mesto u knjizi gde je to uslo?
 
 ---
 
