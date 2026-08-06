@@ -22,9 +22,26 @@ Novi unosi idu **na vrh**. Kratko — detalji žive u fajlovima projekata.
 - Podela posla: Claude radi strukturu, konzistentnost, brainstorming, oštru kritiku i piše
   nacrte scena — ali nacrti su sirovina koju Mihajlo **prepisuje** svojim glasom.
 
+**PORUKA ZAKLJUČANA (K1) — ista sesija, kasnije**
+- Centralno pitanje: **„Šta čovek treba da uradi kad ne može ništa da uradi?"**
+- Teza: prihvatanje stanja kakvo jeste je preduslov da se išta može — nije predaja, nego
+  ono što čoveka ostavlja **prisutnim** da vidi priliku kad naiđe. Nada bez dokaza je razlog
+  da se ne stane: kao što je sve uništeno neočekivano, može se i vratiti neočekivano — ali
+  se to nikad neće saznati ako se sada stane.
+- **Ekstrem je lupa, ne tema.** Kraj sveta služi da se pod uvećanjem vidi obična stvar iz
+  stvarnog života. Knjiga mora biti upotrebljiva nekome ko nikad neće videti čudovište.
+  Zato problemi likova pre invazije moraju biti namerno svakodnevni.
+- **Osa: prihvatanje vs. rezignacija** — spolja identični, iznutra suprotni. Nikad se ne
+  objašnjava, samo pokazuje kroz posledicu.
+- **Odbačeno:** da likovi zaključe kako su ranije muke bile nebitne. Bile su stvarne i
+  ostaju stvarne — katastrofa ih nije ukinula nego zaključala u trenutku u kom su bile.
+- Puna razrada u `Pisanje/Prica1/00-BIBLIJA/premisa.md`, obrazloženje u `dnevnik-odluka.md`.
+
 **Šta je otvoreno (sve u `00-BIBLIJA/otvorena-pitanja.md`)**
-- **Blokira sve ostalo:** koja je poruka / centralno pitanje priče, i kakav je kraj.
-  Brainstorm je u toku, nijedna ponuđena tema još nije prihvaćena.
+- **K2 — kraj i osećaj koji ostavlja.** Sad se može napadati jer je jezgro tu.
+- P1 (kako izgleda prelaz u odnosu prema starim mukama), P3 (ko nosi kontra-tezu),
+  P4 (šta košta prihvatanje), P5 (nalazi li se civilizacija iza brda), P7 (da li prihvatanje
+  nekom ne pomogne), P8 (zabrana izgovaranja poruke naglas).
 - Poreklo i priroda zveri, da li iko ima kontrolu, **postoji li sila koja može pomoći**,
   **može li se rat uopšte dobiti**, zašto vojska odvodi radno sposobne, obuhvat sveta,
   da li je ovo samostalna knjiga ili prvi deo.
@@ -34,10 +51,10 @@ iz lokalnih odluka dok smo u početnoj fazi — iz "zver nije lik" sam bio izveo
 dobiti", što je povučeno. Umesto zaključivanja: postaviti pitanje ili upisati u
 `otvorena-pitanja.md` i vraćati se tome.
 
-**Sledeći korak:** odgovoriti na tri pitanja koja određuju temu — kakav osećaj treba da ostane
-na poslednjoj stranici, šta Mihajlo veruje o ljudima pod pritiskom, i da li neko od grupe umire
-(sa razlogom ili besmisleno). Alternativa koju je Claude ponudio: prvo razrađivati svet i likove
-pa da poruka ispliva iz njih.
+**Sledeći korak:** Mihajlo još nije odlučio odakle nastavlja. Najprirodnije je **L2 — likovi**
+(troje ili četvoro, njihovi svakodnevni problemi pre invazije, ko nosi kontra-tezu, ko kojom
+brzinom pada i ustaje), jer otključava skoro sve ostalo. Alternative: P1 (odnos prema starim
+mukama), svet i zveri (S1–S8), ili K2 (kraj).
 
 ## 05.08.2026 (sreda) — Slobodno vreme: log filmova i serija
 

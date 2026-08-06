@@ -26,44 +26,81 @@ normalne price koje se desavaju u haosu. Sokantan pocetak je fiksiran.
 
 ## Premisa u jednoj recenici
 
-_(Format: [LIK] zeli [CILJ], ali [PREPREKA], pa mora [AKCIJA] — po cenu [ULOG].)_
+_(Ceka L2 — dok likovi nemaju imena i konkretne zivote, premisa se ne moze zavrsiti.)_
 
 TBD
 
 ## Centralno pitanje
 
-_(Pitanje na koje cela knjiga odgovara. Ne "sta se desava" nego "o cemu je ovo zapravo".
-Mora biti pitanje na koje postoje dva branjiva odgovora — inace nema tenzije.)_
+**ZAKLJUCANO 06.08.2026.**
 
-TBD
+> **Sta covek treba da uradi kad ne moze nista da uradi?**
 
 ## Tema
 
-_(Tvrdnja koju knjiga dokazuje kroz radnju, nikad kroz izgovorenu recenicu lika.)_
+**ZAKLJUCANO 06.08.2026.**
 
-TBD
+Kad se coveku sve raspadne, prvo sto mora da uradi je da **prihvati stanje kakvo jeste** —
+da ga ne porice. Zatim da vidi sta se moze uraditi. A ako se ne moze nista, da prihvati i to.
+Prihvatanje nije predaja: ono je jedino sto coveka ostavlja **prisutnim**, pa kad se prilika
+pojavi — on je vidi. Razlog da se nastavi je nada bez dokaza: kao sto je likovima sve
+unisteno neocekivano, mozda im se neocekivano i vrati. **To nikad nece saznati ako sada stanu.**
+
+### Osa oko koje se sve vrti: prihvatanje vs. rezignacija
+
+Spolja identicni — oba coveka sede i ne rade nista. Iznutra suprotni:
+
+| | Prihvatanje | Rezignacija |
+|---|---|---|
+| Recenica | "Ovo je sada tako." | "Ovo je sada tako i zato je gotovo." |
+| Covek je | i dalje prisutan, registruje | otisao |
+| Kad naidje prilika | vidi je | prodje pored njega |
+
+**Ovo se nikad ne objasnjava — samo pokazuje kroz posledicu.** Dva lika u istoj sceni rade
+istu stvar; tek nekoliko poglavlja kasnije se vidi ko je bio gde.
+
+### Ekstrem je lupa, ne tema
+
+Kraj sveta postoji da bi se pod uvecanjem videla obicna stvar iz stvarnog zivota.
+**Knjiga mora biti upotrebljiva nekome ko nikad nece videti cudoviste.**
+
+Posledica za pisanje: problemi likova PRE invazije moraju biti namerno svakodnevni i
+prepoznatljivi — nesuglasica sa ocem, nezavrsen faks, veza koja se gasi, posao koji se mrzi.
+Sto su obicniji, to lupa jace radi.
+
+### Simetrija slucaja — zasto je nada ovde opravdana
+
+Nada u ovoj knjizi nije uteha nego posledica sveta: preziveli su slucajno, zveri nemaju motiv,
+niko nista ne kontrolise. U takvom svetu ravnodusnost sece na obe strane. Nada ne trazi da svet
+bude dobar — samo da bude nepredvidiv, a to je vec dokazano prve noci.
 
 ## Kontra-teza
 
-_(Najjaci moguci argument PROTIV teme. Mora ga nositi neki lik, i mora biti ubedljiv.
-Ako je kontra-teza slaba, knjiga je propoved.)_
+**ZAKLJUCANO kao obavezna 06.08.2026** (nosilac jos nije odredjen — vidi L2/P3.)
 
-TBD
+Da je **odbijanje da se prihvati** ono sto coveka drzi zivim. Da je bes gorivo. Da je onaj ko
+prizna da se stari zivot nece vratiti vec pola mrtav. Ovo nije stav cinika bez nade nego
+uverenje koje u stvarnosti ima ogroman broj ljudi — i lik koji ga nosi mora **ponekad biti u
+pravu i preziveti bas zbog toga**, inace je kraj propoved a ne otkrice.
 
 ## Zasto bas ova prica, bas sada, bas ja
 
-_(Licni ulog. Ono sto te tera da je zavrsis kad se u trecem mesecu smuci.)_
-
-TBD
+Mihajlo (06.08.2026): zelja da se na ekstremnom primeru prikazu stvari iz stvarnog zivota —
+da je ljudima kojima sve deluje crno i kojima se zivot raspada prvo i najbolje da prihvate
+sve kako jeste, pa da vide sta mogu, a ako ne mogu nista da prihvate i to i ostave nadu da se
+jednog dana sve moze promeniti.
 
 ## Poredjenja
 
-_(2-3 dela: "kao X, ali sa Y". Ne radi kopiranja, nego radi tona i ocekivanja citaoca.)_
+_(Utabana staza — od `The Road` naovamo. Nije mana, ali znaci da knjigu ne izdvaja poruka nego
+specificnost likova i njihovih nedovrsenih stvari.)_
 
 TBD
 
 ## Sta ova knjiga NIJE
 
-_(Granice. Sprecava da roman naraste u tri romana.)_
+- **Nije knjiga cija vrednost zavisi od cudovista.** Zveri su lupa, ne sadrzaj.
+- **Nije knjiga koja tvrdi da su obicni problemi bili sitnicavi.** Oni su bili stvarni
+  i ostaju stvarni. (Vidi P1 u `otvorena-pitanja.md`.)
 
-TBD
+_(dopunjava se)_

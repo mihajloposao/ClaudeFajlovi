@@ -18,8 +18,25 @@
 
 | # | Pitanje | Status | Napomena |
 |---|---|---|---|
-| K1 | Koja je poruka / centralno pitanje price? | otvoreno | U toku brainstorm. Sve ostalo ceka ovo. |
-| K2 | Kakav je kraj i kakav osecaj ostavlja? | otvoreno | Vezano za K1. |
+| K2 | Kakav je kraj i kakav osecaj ostavlja? | otvoreno | Jezgro poruke je sada zakljucano, pa se kraj moze napadati. |
+
+> **K1 je ZATVOREN 06.08.2026.** Jezgro poruke je zakljucano i preseljeno u `premisa.md`
+> (centralno pitanje, tema, osa prihvatanje/rezignacija, kontra-teza), obrazlozenje u
+> `dnevnik-odluka.md`. Formulacija se sme doterivati; smer se vise ne preispituje.
+
+### Sto je ostalo otvoreno iz rasprave o poruci
+
+| # | Pitanje | Status | Napomena |
+|---|---|---|---|
+| P1 | Kako tacno izgleda prelaz od "sve je bilo nebitno" do "sve je bilo stvarno i sad je zakljucano"? | otvoreno | Princip prihvacen (stare muke NISU nebitne). Da li bas dvostepeno ili drugi oblik — Mihajlo trazio poseban brainstorm. |
+| P3 | Ko nosi kontra-tezu? | ceka likove | Obaveznost potvrdjena, nosilac se odredjuje uz L2. |
+| P4 | Sta kosta prihvatanje i odluka da se gura dalje? | otvoreno | Odluka bez cene nije klimaks. Nada tera na kretanje, kretanje ubija, podrum je sigurniji. |
+| P5 | Da li se "dobra civilizacija iza brda" ikad nalazi? | otvoreno | Ako se nadje, tema klizi u pricu o spasavanju. Vezano za F2 i S4. |
+| P7 | Da li prihvatanje nekom NE pomogne? | otvoreno | Predlog: neko prodje ceo put, stigne do mira, i svejedno pogine besmisleno. Inace knjiga tvrdi da prihvatanje stiti — a ono ne stiti, samo vraca sposobnost izbora. |
+| P8 | Zabrana izgovaranja poruke naglas? | ceka potvrdu | Predlog pravila: nijedan lik nikad ne izgovara poruku. Citalac je sklapa sam. |
+
+**Za istrazivanje kad se bude pisalo:** radikalno prihvatanje (psihologija) i Frankl —
+"ne biras sta ti se desava, biras stav prema tome". Za autenticnost lika koji prolazi kroz to.
 
 ## Svet i zveri
 
@@ -59,3 +76,8 @@
 _(pitanja koja su dobila odgovor; puno obrazlozenje je u `dnevnik-odluka.md`)_
 
 - Da li se zver iz prve scene vraca? → Ne. Gine u toj sceni, nije lik. (2026-08-06)
+- **K1 — koja je poruka price?** → Zakljucano. "Sta covek treba da uradi kad ne moze nista
+  da uradi?" Prihvatanje kao preduslov, nada bez dokaza kao razlog da se ne stane.
+  Puna razrada u `premisa.md`. (2026-08-06)
+- P2 — kako beznadje ne ubije dinamiku? → Raspodelom po likovima: svaki ga prihvata ili
+  odbija na svoj nacin i u svoje vreme, pa je beznadje odnos a ne stanje. (2026-08-06)
