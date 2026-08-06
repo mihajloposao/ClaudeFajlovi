@@ -30,6 +30,9 @@ Zdravlje/            ciljevi forme, trening, ishrana, ritual
 Slovenija/           master u Sloveniji (cilj okt 2027) — referentno, ne za
   README.md            svaku sesiju; počni od README.md
 
+Pisanje/             kreativno pisanje
+  Prica1/            roman u radu — počni od 00-BIBLIJA/otvorena-pitanja.md
+
 Slobodno vreme/      filmovi i serije — utisci i ocene, puni se kroz razgovor
   Filmovi i serije.md   log unosa, format unosa je u samom fajlu
 ```

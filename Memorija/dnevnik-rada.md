@@ -3,6 +3,42 @@
 Hronologija sesija sa Claude-om: šta je urađeno, šta je odlučeno, šta ostaje.
 Novi unosi idu **na vrh**. Kratko — detalji žive u fajlovima projekata.
 
+## 06.08.2026 (četvrtak) — Novo: roman "Prica1", postavljena biblija projekta
+
+- **Nov folder [`Pisanje/Prica1/`](../Pisanje/Prica1/README.md)** — Mihajlo počinje da piše
+  roman (cilj 80.000+ reči). Radna verzija na **srpskom** da bi je on i bližnji pratili;
+  prevod na engleski tek posle završenog rukopisa.
+- **Struktura:** `00-BIBLIJA/` je izvor istine (premisa, likovi, svet, hronologija, zaplet,
+  glas-i-stil, dnevnik-odluka, otvorena-pitanja), `01-RUKOPIS/` poglavlja, `02-SKICE/` odbačeno.
+  Pravilo: sve što se odluči u chatu mora završiti u fajlu, inače ne postoji.
+
+**Šta je do sada odlučeno**
+- Početna scena je fiksirana: grupa prijatelja jedno veče igra nešto nebitno, spolja
+  eksplozije i krici, upadaju vojnici da ih otmu, u tom trenutku upada zver i pobije se sa
+  njima — grupa preživi slučajno. Shvate da ni vojnici nisu dobronamerni; skrivanje,
+  preživljavanje, traženje drugih dok grad gori.
+- Ta zver **nije lik** — jedna od mnogih, gine u toj sceni, ne vraća se.
+- Grupa: **troje ili četvoro**, finalno se zaključava kad se definišu.
+- Podela posla: Claude radi strukturu, konzistentnost, brainstorming, oštru kritiku i piše
+  nacrte scena — ali nacrti su sirovina koju Mihajlo **prepisuje** svojim glasom.
+
+**Šta je otvoreno (sve u `00-BIBLIJA/otvorena-pitanja.md`)**
+- **Blokira sve ostalo:** koja je poruka / centralno pitanje priče, i kakav je kraj.
+  Brainstorm je u toku, nijedna ponuđena tema još nije prihvaćena.
+- Poreklo i priroda zveri, da li iko ima kontrolu, **postoji li sila koja može pomoći**,
+  **može li se rat uopšte dobiti**, zašto vojska odvodi radno sposobne, obuhvat sveta,
+  da li je ovo samostalna knjiga ili prvi deo.
+
+**Metodološka ispravka (važi i dalje):** Mihajlo je tražio da ne izvodim globalne zaključke
+iz lokalnih odluka dok smo u početnoj fazi — iz "zver nije lik" sam bio izveo "rat se ne može
+dobiti", što je povučeno. Umesto zaključivanja: postaviti pitanje ili upisati u
+`otvorena-pitanja.md` i vraćati se tome.
+
+**Sledeći korak:** odgovoriti na tri pitanja koja određuju temu — kakav osećaj treba da ostane
+na poslednjoj stranici, šta Mihajlo veruje o ljudima pod pritiskom, i da li neko od grupe umire
+(sa razlogom ili besmisleno). Alternativa koju je Claude ponudio: prvo razrađivati svet i likove
+pa da poruka ispliva iz njih.
+
 ## 05.08.2026 (sreda) — Slobodno vreme: log filmova i serija
 
 - **Nov folder `Slobodno vreme/`** — [`Filmovi i serije.md`](../Slobodno%20vreme/Filmovi%20i%20serije.md)
