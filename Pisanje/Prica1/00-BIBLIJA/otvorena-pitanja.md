@@ -32,13 +32,22 @@
 | P3 | Ko nosi kontra-tezu? | ceka likove | Obaveznost potvrdjena, nosilac se odredjuje uz L2. |
 | P4 | Sta kosta prihvatanje i odluka da se gura dalje? | otvoreno | Odluka bez cene nije klimaks. Nada tera na kretanje, kretanje ubija, podrum je sigurniji. |
 | P5 | Da li se "dobra civilizacija iza brda" ikad nalazi? | otvoreno | Ako se nadje, tema klizi u pricu o spasavanju. Vezano za F2 i S4. |
-| P7 | Da li prihvatanje nekom NE pomogne? | otvoreno | Predlog: neko prodje ceo put, stigne do mira, i svejedno pogine besmisleno. Inace knjiga tvrdi da prihvatanje stiti — a ono ne stiti, samo vraca sposobnost izbora. |
-| P8 | Zabrana izgovaranja poruke naglas? | ceka potvrdu | Predlog pravila: nijedan lik nikad ne izgovara poruku. Citalac je sklapa sam. |
+| P7 | Da li prihvatanje nekom NE pomogne? | **jaka ideja, ceka pricu** | Preseljeno u `pravila-price.md` kao JI1. Mihajlo: "mozemo da ostavimo kao jaku ideju". |
 
 **Za istrazivanje kad se bude pisalo:** radikalno prihvatanje (psihologija) i Frankl —
 "ne biras sta ti se desava, biras stav prema tome". Za autenticnost lika koji prolazi kroz to.
 
+## Realnost i objasnjenost
+
+| # | Pitanje | Status | Napomena |
+|---|---|---|---|
+| R1 | Da li citalac na kraju knjige saznaje istinu o zverima, i ako da — kroz koji kanal? | otvoreno | Mihajlo trazi da nema nejasnoca. Ali likovi su obicni ljudi bez pristupa istini. Opcije: (a) citalac saznaje koliko i likovi, doslednost nosi ostatak; (b) postoji kanal informacije koji se mora osmisliti tako da ne rusi perspektivu; (c) istina se cuva za sledeci deo (vezano za F2). |
+| R2 | Koliko nemogucih stvari se dozvoljava osim zveri? | otvoreno | PR2 kaze: sto manje. Svaka nova nemoguca stvar se placa poverenjem citaoca. |
+
 ## Svet i zveri
+
+> **Ove odgovore treba popuniti DO KRAJA** (PR3), cak i ono sto se nikad nece izgovoriti
+> u knjizi. Biblija zna sve; knjiga pokazuje samo ono do cega likovi mogu doci.
 
 | # | Pitanje | Status | Napomena |
 |---|---|---|---|

@@ -37,11 +37,27 @@ Novi unosi idu **na vrh**. Kratko — detalji žive u fajlovima projekata.
   ostaju stvarne — katastrofa ih nije ukinula nego zaključala u trenutku u kom su bile.
 - Puna razrada u `Pisanje/Prica1/00-BIBLIJA/premisa.md`, obrazloženje u `dnevnik-odluka.md`.
 
+**Nova pravila pisanja — `00-BIBLIJA/pravila-price.md`**
+- **PR1 — poruka se nikad ne izgovara naglas.** Nijedan lik je ne kaže, nema ni naratorskog
+  sažimanja značenja. Mihajlo: „bilo bi baš prosto." Provera: da li bi replika mogla na plakat?
+- **PR2 — maksimalna realnost svega osim zveri.** Ograničen broj nemogućih stvari, sve ostalo
+  se pokorava stvarnom svetu. Realnost živi u posledicama (voda pre hrane, infekcije, municija,
+  dim danima, neispavanost, zima), ne u objašnjenju čudovišta.
+- **PR3 — biblija zna sve, knjiga pokazuje koliko likovi mogu da saznaju.** Mihajlo traži da
+  čitalac na kraju nema nejasnoća. Razlika koja to omogućava bez rušenja perspektive:
+  **nema rupa ≠ nema nepoznanica.** Rupa (protivrečnost, nemotivisan lik, rešenje bez najave)
+  se ne oprašta; nepoznanica koju ni likovi ne znaju se oprašta — ali samo ako čitalac oseća
+  da pisac zna. Zato se `svet.md` popunjava do kraja, i ono što se nikad neće izgovoriti.
+- **PR4 — ništa nije zakon priče bez Mihajlove potvrde.**
+- **JI1 (jaka ideja, nije odluka):** nekome prihvatanje ne pomogne — prođe ceo put, stigne do
+  mira, i svejedno pogine od nečeg banalnog. Bez toga knjiga tvrdi da prihvatanje štiti.
+
 **Šta je otvoreno (sve u `00-BIBLIJA/otvorena-pitanja.md`)**
 - **K2 — kraj i osećaj koji ostavlja.** Sad se može napadati jer je jezgro tu.
 - P1 (kako izgleda prelaz u odnosu prema starim mukama), P3 (ko nosi kontra-tezu),
-  P4 (šta košta prihvatanje), P5 (nalazi li se civilizacija iza brda), P7 (da li prihvatanje
-  nekom ne pomogne), P8 (zabrana izgovaranja poruke naglas).
+  P4 (šta košta prihvatanje), P5 (nalazi li se civilizacija iza brda).
+- **Novo: R1** — da li čitalac na kraju saznaje istinu o zverima i kroz koji kanal, kad likovi
+  nemaju pristup toj istini. **R2** — koliko nemogućih stvari se dozvoljava osim zveri.
 - Poreklo i priroda zveri, da li iko ima kontrolu, **postoji li sila koja može pomoći**,
   **može li se rat uopšte dobiti**, zašto vojska odvodi radno sposobne, obuhvat sveta,
   da li je ovo samostalna knjiga ili prvi deo.

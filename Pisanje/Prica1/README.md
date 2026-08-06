@@ -25,6 +25,7 @@ Bolje postaviti pitanje nego izvesti zakljucak.
   glas-i-stil.md     POV, glagolsko vreme, ton, pravila proze, uzorci recenica.
   dnevnik-odluka.md  Zasto smo odlucili X i sta smo odbacili. Sprecava vrtenje u krug.
   otvorena-pitanja.md  Sve sto JOS NIJE odluceno. U ranoj fazi najvazniji fajl.
+  pravila-price.md   Nepregovaracka pravila pisanja (PR1-PR4) + jake ideje koje cekaju.
 
 01-RUKOPIS/     ← sama knjiga. Jedan fajl po poglavlju: 01-naslov.md, 02-naslov.md...
 02-SKICE/       ← odbacene scene, alternativne verzije, sirove ideje. Nista se ne brise.
