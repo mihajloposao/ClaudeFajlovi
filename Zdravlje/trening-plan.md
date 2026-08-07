@@ -1,6 +1,6 @@
 # Trening plan — od 3.8.2026. (4 dana, vuča/guranje)
 
-**Poslednje ažuriranje:** 04.08.2026.
+**Poslednje ažuriranje:** 07.08.2026.
 **Cilj:** rekompozicija — izgradnja mišića (prioritet: ramena/leđa → V-oblik)
 uz topljenje stomaka kroz deficit. Ishrana u
 [`ciljevi-i-navike.md`](ciljevi-i-navike.md).
@@ -122,15 +122,28 @@ kombinacijom žuta+crvena+crna). Boja više nije alat, pa:
    ponavljanja svake serije moraju biti teška; ako prođe gornja granica u svakoj
    seriji, sledeći put se skraćuje hvat i cilja donja granica opsega.
 
-**Trenutno stanje (4.8):** zgibovi maks **5** u prvoj seriji (5-5-4 + negativni).
-Prati se broj u **prvoj** seriji — ostale zavise od umora i pauze. Kad maks dođe
-do 8, negativni ispadaju i vraćaju se 4 normalne serije. Prelako i traži kraći
-hvat: potisak iznad glave, triceps, lat pulldown. Pogođeno tačno: lateralna,
-face pull, veslanje, sklekovi sa uzdignutim nogama.
+**Trenutno stanje (7.8):** zgibovi pronirani maks **5** u prvoj seriji (5-5-4 +
+negativni). Prati se broj u **prvoj** seriji — ostale zavise od umora i pauze.
+Kad maks dođe do 8, negativni ispadaju i vraćaju se 4 normalne serije.
+Supinirani hvat Mihajlu **nije lakši** od proniranog (kod nekih jeste, kod nekih
+nije — zavisi od odnosa snage bicepsa i leđa); prati se kao odvojen broj.
+
+Traži progresiju: **propadanja** (12 lako → ranac 3–5 kg, cilj pad u 8–10),
+**uski sklekovi** (16 → noge na stolicu), **horizontalni zgibovi** (podići šipku
+za 10–20 cm dok ne izađe 10–12 čisto sa ispravljenim nogama), **lat pulldown**
+(klečati dalje od vrata). Pogođeno tačno: potisak iznad glave (posle skraćenja
+hvata), lateralna (posle jače gume), face pull, veslanje, sklekovi sa uzdignutim
+nogama, bočni plank.
 
 **Serija se završava kad forma popusti, ne kad brojka stane.** Kod pike sklekova
 to znači da se kukovi spuste (vežba pređe u običan sklek), teme ne ide do poda,
 ili glava ide napred umesto dole. Kod zgibova: čim treba zamah, serija je gotova.
+
+**Pauza usred serije ne produžava seriju.** 7 pa pauza pa još 5 je serija od 7 —
+zapisuje se 7. Isto za lateralna (15+5 = 15) i plank (35 s + 10 s = 35 s). Ovo je
+ponavljajuća greška: brojka nije cilj, tenzija je, a od sklepane brojke se ne
+vidi progresija. Kad broj ne izlazi čisto, **menja se poluga** (visina šipke,
+visina nogu, dužina hvata), ne način brojanja.
 
 **Šta se zapisuje u Helthy:** kod zgibova i propadanja broj **čistih**
 ponavljanja, kod guma **dužina hvata** (broj namotaja, razmak stopala). Boja

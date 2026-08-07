@@ -3,6 +3,34 @@
 Hronologija sesija sa Claude-om: šta je urađeno, šta je odlučeno, šta ostaje.
 Novi unosi idu **na vrh**. Kratko — detalji žive u fajlovima projekata.
 
+## 07.08.2026 (petak) — Trening: prva puna nedelja po novom planu (4/4)
+
+**Čet 6.8 — Vuča B**
+- Zgibovi **supiniranim hvatom nisu bili lakši**, možda i teži od proniranog.
+  Normalno — zavisi od odnosa snage bicepsa i leđa. Prati se kao odvojen broj.
+- **Horizontalni zgibovi:** 7 u cugu, pa sa pauzama „doterao" do 12. Ispravka:
+  to je serija od 7. Rešenje nije pauza nego **podići šipku 10–20 cm** dok ne
+  izađe 10–12 čisto sa ispravljenim nogama.
+
+**Pet 7.8 — Guranje B + core**
+- **Potisak iznad glave konačno pogođen** — 15 ali teško, posle četiri sesije
+  prelakog. Kraći hvat je rešio. Ne dirati.
+- **Propadanja 12 lako** → okinuto pravilo progresije: **ranac sa knjigama
+  3–5 kg**, cilj pad u 8–10. Druga vežba (uz zgibove) sa pravom dugoročnom
+  linijom napretka.
+- **Uski sklekovi 16** → menjati polugu (noge na stolicu), ne dodavati ponavljanja.
+- **Lateralna:** sam pojačao gumu — dobar potez, to je bio sledeći korak. 15 pa
+  pauza pa 5 → zapisuje se 15.
+- **Bočni plank** 35 s (pa pauza + 10 s) → zapisuje se 35 s. U opsegu.
+- **Pike sklekovi** lakši nego u utorak; viša podloga tek kad se forma potvrdi
+  snimkom.
+
+**Ponavljajuća greška: pauza usred serije radi brojke.** Javila se treći put
+(pike sklekovi, horizontalni zgibovi, lateralna, plank). Pravilo upisano u plan —
+kad broj ne izlazi čisto, menja se poluga, ne način brojanja.
+
+**Status uslova za povratak nogu:** 1 od 3 pune nedelje bez propuštenog treninga.
+
 ## 06.08.2026 (četvrtak) — Novo: roman "Prica1", postavljena biblija projekta
 
 - **Nov folder [`Pisanje/Prica1/`](../Pisanje/Prica1/README.md)** — Mihajlo počinje da piše
