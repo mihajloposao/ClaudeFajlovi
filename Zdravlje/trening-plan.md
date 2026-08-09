@@ -1,9 +1,104 @@
-# Trening plan — od 3.8.2026. (4 dana, vuča/guranje)
+# Trening plan (4 dana, vuča/guranje)
 
-**Poslednje ažuriranje:** 04.08.2026.
+**Poslednje ažuriranje:** 09.08.2026.
 **Cilj:** rekompozicija — izgradnja mišića (prioritet: ramena/leđa → V-oblik)
 uz topljenje stomaka kroz deficit. Ishrana u
 [`ciljevi-i-navike.md`](ciljevi-i-navike.md).
+
+> **AKTUELNO OD 10.8:** na snazi je privremeni **blok visoke frekvencije**
+> (vidi odmah ispod), ne standardna nedelja. Standardni 4-dnevni plan se vraća
+> posle pauze. Sve ostalo u ovom fajlu — vežbe, progresija, pravila — važi i
+> dalje.
+
+---
+
+# BLOK VISOKE FREKVENCIJE — 10.8 do ~19/20.8
+
+**Situacija:** Mihajlo 10–11 dana može da trenira **svaki dan**, a odmah posle
+toga **10–11 dana ne može uopšte**. Razlog pauze nije ispitni rok (rekao je
+„nešto treće"); nije dodatno specificiran. Datum početka: **pon 10.8.**
+Dužina bloka (10 ili 11 dana) nije bila potvrđena — proveriti.
+
+## Ključna postavka (da se ne pogreši pri sledećem otvaranju)
+
+**Pauza od 10–11 dana ne košta praktično ništa.** Gubitak mišićne mase kreće
+tek posle ~3 nedelje potpune neaktivnosti; snaga pada minimalno i vraća se za
+1–2 treninga. **Zato se napredak NE „bankira" pred pauzu** — cilj bloka je
+maksimalan *kvalitetan* napredak, ne maksimalan obim.
+
+Mihajlo je rekao da vremenski može „koliko god dnevno". **Vreme nije usko grlo,
+oporavak jeste** — sesije ostaju **~40 min**, dobitak se vadi iz broja dana, ne
+iz dužine sesije. Ne dodavati serije „jer ima vremena".
+
+## Raspored (rotacija ×2)
+
+| Dan | Trening |
+|---|---|
+| 1 | Vuča A |
+| 2 | Guranje A |
+| 3 | Vuča B |
+| 4 | Guranje B |
+| 5 | slobodno |
+| 6 | Vuča A |
+| 7 | Guranje A |
+| 8 | Vuča B |
+| 9 | Guranje B |
+| 10 | slobodno |
+| 11 (ako ga ima) | Vuča A skraćeno |
+
+Slobodan dan je alat, ne datum — pomera se ranije ako se javi umor.
+Ukupno: 4 vuče + 4 guranja u 10 dana = svaka grupa ~3×/ned umesto 2×
+(oko 40% više kvalitetnog rada).
+
+## Sesije u bloku (skraćene verzije standardnih)
+
+**Vuča A** — zgibovi širi pronirani 3 × do otkaza (pauza 2–3 min) · lat
+pulldown 3 × 10–12 (klečati dalje) · veslanje 3 × 12–15 crna · face pull
+3 × 15–20 · lateralna 4 × 15–20
+
+**Guranje A** — pike sklekovi noge gore 4 × 8–12 · propadanja + ranac 3–5 kg
+3 × 8–10 · sklekovi noge gore 3 × 8–15 · potisak iznad glave 3 × 12–15 ·
+lateralna 3 × 15–20
+
+**Vuča B** — zgibovi supinirani 3 × do otkaza · horizontalni zgibovi 4 × 10–12
+(šipka gore 10–20 cm) · lat pulldown 3 × 12–15 · face pull 3 × 15–20 ·
+lateralna 4 × 15–20 · biceps 2 × 10–12
+
+**Guranje B + core** — propadanja + ranac 4 × 8–10 · pike sklekovi 4 × 8–12 ·
+uski sklekovi noge gore 3 × do otkaza · potisak 3 × 12–15 · lateralna 3 × 20 ·
+bočni plank 2 × 30–45 s
+
+## Ciljevi bloka
+
+**Glavni: zgibovi sa 5 na 7** u prvoj seriji. To je merilo celog perioda.
+
+Sekundarni:
+- Propadanja sa rancem 3–5 kg, čisto u opsegu **8–10**
+- Horizontalni zgibovi **10–12 sa ispravljenim nogama**, bez pauze usred serije
+- Uski sklekovi: noge gore, nazad u opseg **8–12**
+- Lat pulldown: klečati dalje dok se ne padne na **10**
+
+## Dnevna praksa zgibova (grease the groove)
+
+**4 serije × 3 ponavljanja, razbacano kroz dan**, satima razmaka, **nikad blizu
+otkaza.** Trenira se nervni sistem, ne mišić — zato ne troši oporavak i zato je
+ovo najbrži put od 5 do 7.
+
+- Radi se **samo na dane guranja i slobodne dane** (6 od 10), ne na dane vuče.
+- **Bol u laktu ili ramenu → prekid odmah.** Tetive se adaptiraju sporije od
+  mišića i to je jedini realan rizik ovog protokola.
+
+## Pauza posle bloka (~20.8–31.8)
+
+- **Ne treba raditi ništa.** Nema „održavajućih" treninga kod kuće.
+- Jedina odbrana je hrana — vidi
+  [`ciljevi-i-navike.md`](ciljevi-i-navike.md), sekcija o dva perioda.
+- **Povratak:** prve **dve sesije sa upola manje serija.** Inače upala obara
+  na tri dana. Prvi trening će biti slabiji za ponavljanje-dva — to je
+  normalno, ne nazadovanje.
+- Posle povratka se vraća standardni 4-dnevni plan ispod.
+
+---
 
 ## Oprema — trenutno stanje
 
@@ -122,15 +217,28 @@ kombinacijom žuta+crvena+crna). Boja više nije alat, pa:
    ponavljanja svake serije moraju biti teška; ako prođe gornja granica u svakoj
    seriji, sledeći put se skraćuje hvat i cilja donja granica opsega.
 
-**Trenutno stanje (4.8):** zgibovi maks **5** u prvoj seriji (5-5-4 + negativni).
-Prati se broj u **prvoj** seriji — ostale zavise od umora i pauze. Kad maks dođe
-do 8, negativni ispadaju i vraćaju se 4 normalne serije. Prelako i traži kraći
-hvat: potisak iznad glave, triceps, lat pulldown. Pogođeno tačno: lateralna,
-face pull, veslanje, sklekovi sa uzdignutim nogama.
+**Trenutno stanje (7.8):** zgibovi pronirani maks **5** u prvoj seriji (5-5-4 +
+negativni). Prati se broj u **prvoj** seriji — ostale zavise od umora i pauze.
+Kad maks dođe do 8, negativni ispadaju i vraćaju se 4 normalne serije.
+Supinirani hvat Mihajlu **nije lakši** od proniranog (kod nekih jeste, kod nekih
+nije — zavisi od odnosa snage bicepsa i leđa); prati se kao odvojen broj.
+
+Traži progresiju: **propadanja** (12 lako → ranac 3–5 kg, cilj pad u 8–10),
+**uski sklekovi** (16 → noge na stolicu), **horizontalni zgibovi** (podići šipku
+za 10–20 cm dok ne izađe 10–12 čisto sa ispravljenim nogama), **lat pulldown**
+(klečati dalje od vrata). Pogođeno tačno: potisak iznad glave (posle skraćenja
+hvata), lateralna (posle jače gume), face pull, veslanje, sklekovi sa uzdignutim
+nogama, bočni plank.
 
 **Serija se završava kad forma popusti, ne kad brojka stane.** Kod pike sklekova
 to znači da se kukovi spuste (vežba pređe u običan sklek), teme ne ide do poda,
 ili glava ide napred umesto dole. Kod zgibova: čim treba zamah, serija je gotova.
+
+**Pauza usred serije ne produžava seriju.** 7 pa pauza pa još 5 je serija od 7 —
+zapisuje se 7. Isto za lateralna (15+5 = 15) i plank (35 s + 10 s = 35 s). Ovo je
+ponavljajuća greška: brojka nije cilj, tenzija je, a od sklepane brojke se ne
+vidi progresija. Kad broj ne izlazi čisto, **menja se poluga** (visina šipke,
+visina nogu, dužina hvata), ne način brojanja.
 
 **Šta se zapisuje u Helthy:** kod zgibova i propadanja broj **čistih**
 ponavljanja, kod guma **dužina hvata** (broj namotaja, razmak stopala). Boja

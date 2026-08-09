@@ -3,7 +3,7 @@
 Glavni fajl konteksta. Ovde je srž; detalji su u fajlovima na koje se linkuje.
 Ažurira se na kraju svake sadržajne sesije (skill `radni-kontekst`).
 
-**Poslednje ažuriranje:** 04.08.2026.
+**Poslednje ažuriranje:** 09.08.2026.
 
 ## Ko sam (ukratko)
 
@@ -37,7 +37,11 @@ Detaljno: [`profil.md`](profil.md) · [`stil-komunikacije.md`](stil-komunikacije
   stomaka, ne samo kilaža. **Streak treninga počeo 28.7.** Nabavljeni door
   anchor (28.7) i **vratilo** (29.7) — zgibovi su sada glavna vežba za širinu,
   gume su na plafonu i progresija ide kroz dužinu hvata. Ključni broj: **maks
-  zgibova u prvoj seriji, trenutno 5.** Plan je 4.8 skraćen na **4 dana
+  zgibova u prvoj seriji, trenutno 5.** Prva puna nedelja 4/4 odrađena (3.–7.8);
+  uslov za povratak nogu je 3 takve nedelje. **Od 10.8 privremeni blok visoke
+  frekvencije** (8 sesija u 10 dana, cilj zgibovi 5→7), pa **~10–11 dana potpune
+  pauze od treninga** (razlog nije ispitni rok). Ishrana za oba perioda i cela
+  logika bloka su upisani u Zdravlje/. Plan je 4.8 skraćen na **4 dana
   (vuča/guranje, sreda slobodna)** — dan nogu izbačen dok se ne uhvati ritam,
   vraća se 13.9 ili posle 3 pune nedelje bez propuštenog treninga. Plan u
   [`../Zdravlje/trening-plan.md`](../Zdravlje/trening-plan.md); ishrana i limiti u

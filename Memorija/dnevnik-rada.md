@@ -3,6 +3,145 @@
 Hronologija sesija sa Claude-om: šta je urađeno, šta je odlučeno, šta ostaje.
 Novi unosi idu **na vrh**. Kratko — detalji žive u fajlovima projekata.
 
+## 09.08.2026 (nedelja) — Blok visoke frekvencije + ciljevi ishrane za oba perioda
+
+**Situacija:** Mihajlo narednih 10–11 dana može da trenira svaki dan, a odmah
+posle toga 10–11 dana ne može uopšte. Razlog pauze **nije ispitni rok** — rekao
+je „nešto treće", nije specificirao. Traženo: maksimalan efekat u toj situaciji,
+prioriteti (mišić, izgled) ostaju isti.
+
+**Ključni okvir koji je uokvirio ceo dogovor:** pauza od 10–11 dana praktično ne
+košta ništa (gubitak mase kreće posle ~3 nedelje neaktivnosti). Zato se napredak
+NE bankira pred pauzu — cilj bloka je kvalitetan napredak, ne maksimalan obim.
+Mihajlo je rekao da vremenski može „koliko god dnevno"; odgovoreno da je usko
+grlo oporavak, ne vreme → sesije ostaju ~40 min, dobitak iz broja dana.
+
+**Upisano u [`../Zdravlje/trening-plan.md`](../Zdravlje/trening-plan.md)** (na
+vrhu fajla, iznad standardnog plana): rotacija Vuča A / Guranje A / Vuča B /
+Guranje B / slobodno ×2, skraćene verzije sesija, ciljevi bloka (glavni:
+**zgibovi 5 → 7**), dnevna praksa zgibova 4×3 bez otkaza (samo dani guranja +
+slobodni), i protokol povratka posle pauze (prve 2 sesije upola manje serija).
+
+**Upisano u [`../Zdravlje/ciljevi-i-navike.md`](../Zdravlje/ciljevi-i-navike.md):**
+- Ishrana za oba perioda. Period 1: 2500 kcal / 160–165 g P / 65–75 g M /
+  330–350 g UH. Period 2 (bez treninga): iste kalorije, **protein gore na
+  165–175 g** — protein je bez treninga važniji, ne manje važan.
+- Mihajlo je pitao za alternativu jer mu je teško da unese toliko UH; ponuđeno
+  85–90 g masti / 260–270 g UH, ali je rekao da **prvo proba originalnu verziju**.
+- **Neće nabavljati kreatin** (rečeno 9.8) — ne gurati temu.
+- **U bloku neće moći voće i povrće** → izvori vlakana bez njih upisani.
+- Vaga u ovom periodu laže (voda/upala pri prestanku i povratku treninga) →
+  nedeljni prosek, ne dnevni broj.
+
+**Razgovor o kućnom treningu (upisan kao referentni okvir):** čime se zamenjuju
+tegovi, zašto improvizacija važi samo za vučenje/držanje a ne za guranje, zašto
+dizanje nameštaja umesto benča ne valja, mane krive otpora kod guma. Mihajlo je
+potvrdio da mu je **jedini cilj izgled, ne snaga** → upisan redosled poluga
+(procenat masti → proporcije → ukupna masa) kao osnova za buduće odluke.
+
+**Otvoreno:** nije potvrđeno da li je blok 10 ili 11 dana. Početak: pon 10.8.
+
+## 07.08.2026 (petak) — Trening: prva puna nedelja po novom planu (4/4)
+
+**Čet 6.8 — Vuča B**
+- Zgibovi **supiniranim hvatom nisu bili lakši**, možda i teži od proniranog.
+  Normalno — zavisi od odnosa snage bicepsa i leđa. Prati se kao odvojen broj.
+- **Horizontalni zgibovi:** 7 u cugu, pa sa pauzama „doterao" do 12. Ispravka:
+  to je serija od 7. Rešenje nije pauza nego **podići šipku 10–20 cm** dok ne
+  izađe 10–12 čisto sa ispravljenim nogama.
+
+**Pet 7.8 — Guranje B + core**
+- **Potisak iznad glave konačno pogođen** — 15 ali teško, posle četiri sesije
+  prelakog. Kraći hvat je rešio. Ne dirati.
+- **Propadanja 12 lako** → okinuto pravilo progresije: **ranac sa knjigama
+  3–5 kg**, cilj pad u 8–10. Druga vežba (uz zgibove) sa pravom dugoročnom
+  linijom napretka.
+- **Uski sklekovi 16** → menjati polugu (noge na stolicu), ne dodavati ponavljanja.
+- **Lateralna:** sam pojačao gumu — dobar potez, to je bio sledeći korak. 15 pa
+  pauza pa 5 → zapisuje se 15.
+- **Bočni plank** 35 s (pa pauza + 10 s) → zapisuje se 35 s. U opsegu.
+- **Pike sklekovi** lakši nego u utorak; viša podloga tek kad se forma potvrdi
+  snimkom.
+
+**Ponavljajuća greška: pauza usred serije radi brojke.** Javila se treći put
+(pike sklekovi, horizontalni zgibovi, lateralna, plank). Pravilo upisano u plan —
+kad broj ne izlazi čisto, menja se poluga, ne način brojanja.
+
+**Status uslova za povratak nogu:** 1 od 3 pune nedelje bez propuštenog treninga.
+
+## 06.08.2026 (četvrtak) — Novo: roman "Prica1", postavljena biblija projekta
+
+- **Nov folder [`Pisanje/Prica1/`](../Pisanje/Prica1/README.md)** — Mihajlo počinje da piše
+  roman (cilj 80.000+ reči). Radna verzija na **srpskom** da bi je on i bližnji pratili;
+  prevod na engleski tek posle završenog rukopisa.
+- **Struktura:** `00-BIBLIJA/` je izvor istine (premisa, likovi, svet, hronologija, zaplet,
+  glas-i-stil, dnevnik-odluka, otvorena-pitanja), `01-RUKOPIS/` poglavlja, `02-SKICE/` odbačeno.
+  Pravilo: sve što se odluči u chatu mora završiti u fajlu, inače ne postoji.
+
+**Šta je do sada odlučeno**
+- Početna scena je fiksirana: grupa prijatelja jedno veče igra nešto nebitno, spolja
+  eksplozije i krici, upadaju vojnici da ih otmu, u tom trenutku upada zver i pobije se sa
+  njima — grupa preživi slučajno. Shvate da ni vojnici nisu dobronamerni; skrivanje,
+  preživljavanje, traženje drugih dok grad gori.
+- Ta zver **nije lik** — jedna od mnogih, gine u toj sceni, ne vraća se.
+- Grupa: **troje ili četvoro**, finalno se zaključava kad se definišu.
+- Podela posla: Claude radi strukturu, konzistentnost, brainstorming, oštru kritiku i piše
+  nacrte scena — ali nacrti su sirovina koju Mihajlo **prepisuje** svojim glasom.
+
+**PORUKA ZAKLJUČANA (K1) — ista sesija, kasnije**
+- Centralno pitanje: **„Šta čovek treba da uradi kad ne može ništa da uradi?"**
+- Teza: prihvatanje stanja kakvo jeste je preduslov da se išta može — nije predaja, nego
+  ono što čoveka ostavlja **prisutnim** da vidi priliku kad naiđe. Nada bez dokaza je razlog
+  da se ne stane: kao što je sve uništeno neočekivano, može se i vratiti neočekivano — ali
+  se to nikad neće saznati ako se sada stane.
+- **Ekstrem je lupa, ne tema.** Kraj sveta služi da se pod uvećanjem vidi obična stvar iz
+  stvarnog života. Knjiga mora biti upotrebljiva nekome ko nikad neće videti čudovište.
+  Zato problemi likova pre invazije moraju biti namerno svakodnevni.
+- **Osa: prihvatanje vs. rezignacija** — spolja identični, iznutra suprotni. Nikad se ne
+  objašnjava, samo pokazuje kroz posledicu.
+- **Odbačeno:** da likovi zaključe kako su ranije muke bile nebitne. Bile su stvarne i
+  ostaju stvarne — katastrofa ih nije ukinula nego zaključala u trenutku u kom su bile.
+- Puna razrada u `Pisanje/Prica1/00-BIBLIJA/premisa.md`, obrazloženje u `dnevnik-odluka.md`.
+
+**Nova pravila pisanja — `00-BIBLIJA/pravila-price.md`**
+- **PR1 — poruka se nikad ne izgovara naglas.** Nijedan lik je ne kaže, nema ni naratorskog
+  sažimanja značenja. Mihajlo: „bilo bi baš prosto." Provera: da li bi replika mogla na plakat?
+- **PR2 — maksimalna realnost svega osim zveri.** Ograničen broj nemogućih stvari, sve ostalo
+  se pokorava stvarnom svetu. Realnost živi u posledicama (voda pre hrane, infekcije, municija,
+  dim danima, neispavanost, zima), ne u objašnjenju čudovišta.
+- **PR3 — sledljivost znanja.** *(Prvo sam ovo pogrešno zapisao kao „sve mora biti objašnjeno";
+  Mihajlo je precizirao.)* Zahtev nije da čitalac sazna sve, nego **da bude jasno šta likovi
+  znaju i kako to znaju** — da ima smisla kako do nečega dolaze i kako nešto reše.
+  Svako znanje mora imati izvor na stranici: video je, neko mu je rekao (jasno ko i zašto bi
+  mu verovao), zaključio iz postavljenog, ili nagađa i zna da nagađa. Isto važi za veštine i
+  rešenja — ništa se ne pojavi tačno kad zatreba. **Likovi smeju da budu u krivu** — pravilo
+  traži sledljivost, ne tačnost; to je čak poželjno. Posledica: informacija je resurs sa
+  lancem snabdevanja i može biti zatrovana.
+- **PR4 — ništa nije zakon priče bez Mihajlove potvrde.**
+- **JI1 (jaka ideja, nije odluka):** nekome prihvatanje ne pomogne — prođe ceo put, stigne do
+  mira, i svejedno pogine od nečeg banalnog. Bez toga knjiga tvrdi da prihvatanje štiti.
+
+**Šta je otvoreno (sve u `00-BIBLIJA/otvorena-pitanja.md`)**
+- **K2 — kraj i osećaj koji ostavlja.** Sad se može napadati jer je jezgro tu.
+- P1 (kako izgleda prelaz u odnosu prema starim mukama), P3 (ko nosi kontra-tezu),
+  P4 (šta košta prihvatanje), P5 (nalazi li se civilizacija iza brda).
+- **R1** — da li čitalac ikad saznaje istinu o zverima (nije hitno, obično pitanje priče).
+  **R2** — koliko nemogućih stvari se dozvoljava osim zveri. **R3** — kako informacija putuje
+  u razrušenom gradu, ko su izvori i koliko su pouzdani.
+- Poreklo i priroda zveri, da li iko ima kontrolu, **postoji li sila koja može pomoći**,
+  **može li se rat uopšte dobiti**, zašto vojska odvodi radno sposobne, obuhvat sveta,
+  da li je ovo samostalna knjiga ili prvi deo.
+
+**Metodološka ispravka (važi i dalje):** Mihajlo je tražio da ne izvodim globalne zaključke
+iz lokalnih odluka dok smo u početnoj fazi — iz "zver nije lik" sam bio izveo "rat se ne može
+dobiti", što je povučeno. Umesto zaključivanja: postaviti pitanje ili upisati u
+`otvorena-pitanja.md` i vraćati se tome.
+
+**Sledeći korak:** Mihajlo još nije odlučio odakle nastavlja. Najprirodnije je **L2 — likovi**
+(troje ili četvoro, njihovi svakodnevni problemi pre invazije, ko nosi kontra-tezu, ko kojom
+brzinom pada i ustaje), jer otključava skoro sve ostalo. Alternative: P1 (odnos prema starim
+mukama), svet i zveri (S1–S8), ili K2 (kraj).
+
 ## 05.08.2026 (sreda) — Slobodno vreme: log filmova i serija
 
 - **Nov folder `Slobodno vreme/`** — [`Filmovi i serije.md`](../Slobodno%20vreme/Filmovi%20i%20serije.md)
