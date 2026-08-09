@@ -27,6 +27,10 @@ Projekti/
 
 Zdravlje/            ciljevi forme, trening, ishrana, ritual
 
+Screentime/          screenshotovi iPhone Screen Time ekrana, po mesecima
+  README.md            <- konvencija imenovanja i kako se čita
+  YYYY-MM/             slike + `_sazetak.md` (tekstualni izvod iz slika)
+
 Slovenija/           master u Sloveniji (cilj okt 2027) — referentno, ne za
   README.md            svaku sesiju; počni od README.md
 

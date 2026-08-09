@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find \"C:/Users/Mihajlo\" -maxdepth 4 -type d \\\\\\( -iname \"*fokus*\" -o -iname \"*healthy*\" -o -iname \"*focus*\" \\\\\\) 2>/dev/null | grep -vi \"node_modules\\\\|AppData\" | head -40)",
+      "Bash(gh auth *)",
+      "Bash(gh repo *)",
+      "PowerShell($g = Get-Command gh -ErrorAction SilentlyContinue; if \\($g\\) { $g.Source } else { \"gh not found\" }; git --version)"
+    ]
+  }
+}
