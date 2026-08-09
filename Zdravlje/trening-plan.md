@@ -1,9 +1,104 @@
-# Trening plan — od 3.8.2026. (4 dana, vuča/guranje)
+# Trening plan (4 dana, vuča/guranje)
 
-**Poslednje ažuriranje:** 07.08.2026.
+**Poslednje ažuriranje:** 09.08.2026.
 **Cilj:** rekompozicija — izgradnja mišića (prioritet: ramena/leđa → V-oblik)
 uz topljenje stomaka kroz deficit. Ishrana u
 [`ciljevi-i-navike.md`](ciljevi-i-navike.md).
+
+> **AKTUELNO OD 10.8:** na snazi je privremeni **blok visoke frekvencije**
+> (vidi odmah ispod), ne standardna nedelja. Standardni 4-dnevni plan se vraća
+> posle pauze. Sve ostalo u ovom fajlu — vežbe, progresija, pravila — važi i
+> dalje.
+
+---
+
+# BLOK VISOKE FREKVENCIJE — 10.8 do ~19/20.8
+
+**Situacija:** Mihajlo 10–11 dana može da trenira **svaki dan**, a odmah posle
+toga **10–11 dana ne može uopšte**. Razlog pauze nije ispitni rok (rekao je
+„nešto treće"); nije dodatno specificiran. Datum početka: **pon 10.8.**
+Dužina bloka (10 ili 11 dana) nije bila potvrđena — proveriti.
+
+## Ključna postavka (da se ne pogreši pri sledećem otvaranju)
+
+**Pauza od 10–11 dana ne košta praktično ništa.** Gubitak mišićne mase kreće
+tek posle ~3 nedelje potpune neaktivnosti; snaga pada minimalno i vraća se za
+1–2 treninga. **Zato se napredak NE „bankira" pred pauzu** — cilj bloka je
+maksimalan *kvalitetan* napredak, ne maksimalan obim.
+
+Mihajlo je rekao da vremenski može „koliko god dnevno". **Vreme nije usko grlo,
+oporavak jeste** — sesije ostaju **~40 min**, dobitak se vadi iz broja dana, ne
+iz dužine sesije. Ne dodavati serije „jer ima vremena".
+
+## Raspored (rotacija ×2)
+
+| Dan | Trening |
+|---|---|
+| 1 | Vuča A |
+| 2 | Guranje A |
+| 3 | Vuča B |
+| 4 | Guranje B |
+| 5 | slobodno |
+| 6 | Vuča A |
+| 7 | Guranje A |
+| 8 | Vuča B |
+| 9 | Guranje B |
+| 10 | slobodno |
+| 11 (ako ga ima) | Vuča A skraćeno |
+
+Slobodan dan je alat, ne datum — pomera se ranije ako se javi umor.
+Ukupno: 4 vuče + 4 guranja u 10 dana = svaka grupa ~3×/ned umesto 2×
+(oko 40% više kvalitetnog rada).
+
+## Sesije u bloku (skraćene verzije standardnih)
+
+**Vuča A** — zgibovi širi pronirani 3 × do otkaza (pauza 2–3 min) · lat
+pulldown 3 × 10–12 (klečati dalje) · veslanje 3 × 12–15 crna · face pull
+3 × 15–20 · lateralna 4 × 15–20
+
+**Guranje A** — pike sklekovi noge gore 4 × 8–12 · propadanja + ranac 3–5 kg
+3 × 8–10 · sklekovi noge gore 3 × 8–15 · potisak iznad glave 3 × 12–15 ·
+lateralna 3 × 15–20
+
+**Vuča B** — zgibovi supinirani 3 × do otkaza · horizontalni zgibovi 4 × 10–12
+(šipka gore 10–20 cm) · lat pulldown 3 × 12–15 · face pull 3 × 15–20 ·
+lateralna 4 × 15–20 · biceps 2 × 10–12
+
+**Guranje B + core** — propadanja + ranac 4 × 8–10 · pike sklekovi 4 × 8–12 ·
+uski sklekovi noge gore 3 × do otkaza · potisak 3 × 12–15 · lateralna 3 × 20 ·
+bočni plank 2 × 30–45 s
+
+## Ciljevi bloka
+
+**Glavni: zgibovi sa 5 na 7** u prvoj seriji. To je merilo celog perioda.
+
+Sekundarni:
+- Propadanja sa rancem 3–5 kg, čisto u opsegu **8–10**
+- Horizontalni zgibovi **10–12 sa ispravljenim nogama**, bez pauze usred serije
+- Uski sklekovi: noge gore, nazad u opseg **8–12**
+- Lat pulldown: klečati dalje dok se ne padne na **10**
+
+## Dnevna praksa zgibova (grease the groove)
+
+**4 serije × 3 ponavljanja, razbacano kroz dan**, satima razmaka, **nikad blizu
+otkaza.** Trenira se nervni sistem, ne mišić — zato ne troši oporavak i zato je
+ovo najbrži put od 5 do 7.
+
+- Radi se **samo na dane guranja i slobodne dane** (6 od 10), ne na dane vuče.
+- **Bol u laktu ili ramenu → prekid odmah.** Tetive se adaptiraju sporije od
+  mišića i to je jedini realan rizik ovog protokola.
+
+## Pauza posle bloka (~20.8–31.8)
+
+- **Ne treba raditi ništa.** Nema „održavajućih" treninga kod kuće.
+- Jedina odbrana je hrana — vidi
+  [`ciljevi-i-navike.md`](ciljevi-i-navike.md), sekcija o dva perioda.
+- **Povratak:** prve **dve sesije sa upola manje serija.** Inače upala obara
+  na tri dana. Prvi trening će biti slabiji za ponavljanje-dva — to je
+  normalno, ne nazadovanje.
+- Posle povratka se vraća standardni 4-dnevni plan ispod.
+
+---
 
 ## Oprema — trenutno stanje
 

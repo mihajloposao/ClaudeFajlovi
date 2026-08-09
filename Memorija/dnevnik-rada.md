@@ -3,6 +3,44 @@
 Hronologija sesija sa Claude-om: šta je urađeno, šta je odlučeno, šta ostaje.
 Novi unosi idu **na vrh**. Kratko — detalji žive u fajlovima projekata.
 
+## 09.08.2026 (nedelja) — Blok visoke frekvencije + ciljevi ishrane za oba perioda
+
+**Situacija:** Mihajlo narednih 10–11 dana može da trenira svaki dan, a odmah
+posle toga 10–11 dana ne može uopšte. Razlog pauze **nije ispitni rok** — rekao
+je „nešto treće", nije specificirao. Traženo: maksimalan efekat u toj situaciji,
+prioriteti (mišić, izgled) ostaju isti.
+
+**Ključni okvir koji je uokvirio ceo dogovor:** pauza od 10–11 dana praktično ne
+košta ništa (gubitak mase kreće posle ~3 nedelje neaktivnosti). Zato se napredak
+NE bankira pred pauzu — cilj bloka je kvalitetan napredak, ne maksimalan obim.
+Mihajlo je rekao da vremenski može „koliko god dnevno"; odgovoreno da je usko
+grlo oporavak, ne vreme → sesije ostaju ~40 min, dobitak iz broja dana.
+
+**Upisano u [`../Zdravlje/trening-plan.md`](../Zdravlje/trening-plan.md)** (na
+vrhu fajla, iznad standardnog plana): rotacija Vuča A / Guranje A / Vuča B /
+Guranje B / slobodno ×2, skraćene verzije sesija, ciljevi bloka (glavni:
+**zgibovi 5 → 7**), dnevna praksa zgibova 4×3 bez otkaza (samo dani guranja +
+slobodni), i protokol povratka posle pauze (prve 2 sesije upola manje serija).
+
+**Upisano u [`../Zdravlje/ciljevi-i-navike.md`](../Zdravlje/ciljevi-i-navike.md):**
+- Ishrana za oba perioda. Period 1: 2500 kcal / 160–165 g P / 65–75 g M /
+  330–350 g UH. Period 2 (bez treninga): iste kalorije, **protein gore na
+  165–175 g** — protein je bez treninga važniji, ne manje važan.
+- Mihajlo je pitao za alternativu jer mu je teško da unese toliko UH; ponuđeno
+  85–90 g masti / 260–270 g UH, ali je rekao da **prvo proba originalnu verziju**.
+- **Neće nabavljati kreatin** (rečeno 9.8) — ne gurati temu.
+- **U bloku neće moći voće i povrće** → izvori vlakana bez njih upisani.
+- Vaga u ovom periodu laže (voda/upala pri prestanku i povratku treninga) →
+  nedeljni prosek, ne dnevni broj.
+
+**Razgovor o kućnom treningu (upisan kao referentni okvir):** čime se zamenjuju
+tegovi, zašto improvizacija važi samo za vučenje/držanje a ne za guranje, zašto
+dizanje nameštaja umesto benča ne valja, mane krive otpora kod guma. Mihajlo je
+potvrdio da mu je **jedini cilj izgled, ne snaga** → upisan redosled poluga
+(procenat masti → proporcije → ukupna masa) kao osnova za buduće odluke.
+
+**Otvoreno:** nije potvrđeno da li je blok 10 ili 11 dana. Početak: pon 10.8.
+
 ## 07.08.2026 (petak) — Trening: prva puna nedelja po novom planu (4/4)
 
 **Čet 6.8 — Vuča B**
